@@ -1,4 +1,4 @@
-<h2 align="center">SoftUni Programming Basics with Java</h2>
+<h2 align="center">SoftUni - Programming Basics with Java</h2>
 
 ### Overall Information about the course
 * [**Software University (SoftUni) - Programming Basics with Java (march 2022)**](https://softuni.bg/courses/programming-basics)
@@ -20,5 +20,5 @@
 ### Седмица 3 - По-сложни проверки
 #### [_**Лекция**_](https://github.com/rythm-net/SoftUni/tree/main/SoftUni%20-%20Programming%20Basics%20with%20Java/Lectures/Lecture%2003) **/**
 * _Вложени условни конструкции_
-* _Switch-конструкция форматиран изход_
+* _**Switch** конструкция - форматиран изход_
 ---
