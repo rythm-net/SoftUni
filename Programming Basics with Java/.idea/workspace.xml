@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="08d846bd-d7ca-46d1-89ef-4dc38f6c2a3b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../Fundamentals with Java/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Fundamentals with Java/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercises/Exercise 01/01 - PB Java First Steps in Coding (Exercise).docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercises/Exercise 01/Exercise 01.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercises/Exercise 01/out/production/Exercise 01/BasketballEquipment.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercises/Exercise 01/out/production/Exercise 01/DepositCalculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercises/Exercise 01/out/production/Exercise 01/FishTank.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercises/Exercise 01/out/production/Exercise 01/FoodDelivery.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercises/Exercise 01/out/production/Exercise 01/RadiansToDegrees.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercises/Exercise 01/out/production/Exercise 01/Repainting.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercises/Exercise 01/out/production/Exercise 01/SuppliesForSchool.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercises/Exercise 01/out/production/Exercise 01/USDtoBGN.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercises/Exercise 01/out/production/Exercise 01/VacationBooksList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercises/Exercise 01/src/BasketballEquipment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercises/Exercise 01/src/DepositCalculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercises/Exercise 01/src/FishTank.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercises/Exercise 01/src/FoodDelivery.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercises/Exercise 01/src/RadiansToDegrees.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercises/Exercise 01/src/Repainting.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercises/Exercise 01/src/SuppliesForSchool.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercises/Exercise 01/src/USDtoBGN.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercises/Exercise 01/src/VacationBooksList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercises/Exercise 02/02 - PB Java Conditional Statements (Exercise).docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercises/Exercise 02/Exercise 02.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercises/Exercise 02/out/production/Exercise 02/BonusScore.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercises/Exercise 02/out/production/Exercise 02/GodzillaVsKong.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercises/Exercise 02/out/production/Exercise 02/LunchBreak.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercises/Exercise 02/out/production/Exercise 02/Shopping.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercises/Exercise 02/out/production/Exercise 02/SumSeconds.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercises/Exercise 02/out/production/Exercise 02/TimePlus15Minutes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercises/Exercise 02/out/production/Exercise 02/ToyShop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercises/Exercise 02/out/production/Exercise 02/WorldSwimmingRecord.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercises/Exercise 02/src/BonusScore.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercises/Exercise 02/src/GodzillaVsKong.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercises/Exercise 02/src/LunchBreak.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercises/Exercise 02/src/Shopping.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercises/Exercise 02/src/SumSeconds.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercises/Exercise 02/src/TimePlus15Minutes.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercises/Exercise 02/src/ToyShop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercises/Exercise 02/src/WorldSwimmingRecord.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lectures/Lecture 01/01 - PB Java First Steps in Coding.pptx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lectures/Lecture 01/Lecture 01.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lectures/Lecture 01/out/production/Lecture 01/ConcatenateData.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lectures/Lecture 01/out/production/Lecture 01/GreetingByName.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lectures/Lecture 01/out/production/Lecture 01/HelloSoftUni.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lectures/Lecture 01/out/production/Lecture 01/InchesToCentimeters.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lectures/Lecture 01/out/production/Lecture 01/Num1To10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lectures/Lecture 01/out/production/Lecture 01/PetShop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lectures/Lecture 01/out/production/Lecture 01/ProjectsCreation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lectures/Lecture 01/out/production/Lecture 01/RectangleArea.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lectures/Lecture 01/out/production/Lecture 01/YardGreening.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lectures/Lecture 01/src/ConcatenateData.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lectures/Lecture 01/src/GreetingByName.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lectures/Lecture 01/src/HelloSoftUni.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lectures/Lecture 01/src/InchesToCentimeters.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lectures/Lecture 01/src/Num1To10.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lectures/Lecture 01/src/PetShop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lectures/Lecture 01/src/ProjectsCreation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lectures/Lecture 01/src/RectangleArea.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lectures/Lecture 01/src/YardGreening.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lectures/Lecture 02/02 - PB Java Conditional Statements (Lab).docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lectures/Lecture 02/02 - PB Java Conditional Statements.pptx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lectures/Lecture 02/Lecture 02.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lectures/Lecture 02/out/production/Lecture 02/AreaOfFigures.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lectures/Lecture 02/out/production/Lecture 02/EvenOrOdd.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lectures/Lecture 02/out/production/Lecture 02/ExcellentResult.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lectures/Lecture 02/out/production/Lecture 02/GreaterNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lectures/Lecture 02/out/production/Lecture 02/Number100to200.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lectures/Lecture 02/out/production/Lecture 02/PasswordGuess.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lectures/Lecture 02/out/production/Lecture 02/SpeedInfo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lectures/Lecture 02/src/AreaOfFigures.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lectures/Lecture 02/src/EvenOrOdd.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lectures/Lecture 02/src/ExcellentResult.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lectures/Lecture 02/src/GreaterNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lectures/Lecture 02/src/Number100to200.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lectures/Lecture 02/src/PasswordGuess.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lectures/Lecture 02/src/SpeedInfo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lectures/Lecture 03/03 - PB Java Conditional Statements Advanced (Lab).docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lectures/Lecture 03/03 - PB Java Conditional Statements Advanced.pptx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lectures/Lecture 03/Lecture 03.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lectures/Lecture 03/out/production/Lecture 03/AnimalType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lectures/Lecture 03/out/production/Lecture 03/CinemaTicket.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lectures/Lecture 03/out/production/Lecture 03/DayOfWeek.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lectures/Lecture 03/out/production/Lecture 03/FruitOrVegetable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lectures/Lecture 03/out/production/Lecture 03/FruitShop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lectures/Lecture 03/out/production/Lecture 03/InvalidNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lectures/Lecture 03/out/production/Lecture 03/NumberInRange.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lectures/Lecture 03/out/production/Lecture 03/PersonalTitles.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lectures/Lecture 03/out/production/Lecture 03/SmallShop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lectures/Lecture 03/out/production/Lecture 03/TradeCommissions.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lectures/Lecture 03/out/production/Lecture 03/WeekendOrWorkingDay.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lectures/Lecture 03/out/production/Lecture 03/WorkingHours.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lectures/Lecture 03/src/AnimalType.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lectures/Lecture 03/src/CinemaTicket.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lectures/Lecture 03/src/DayOfWeek.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lectures/Lecture 03/src/FruitOrVegetable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lectures/Lecture 03/src/FruitShop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lectures/Lecture 03/src/InvalidNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lectures/Lecture 03/src/NumberInRange.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lectures/Lecture 03/src/PersonalTitles.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lectures/Lecture 03/src/SmallShop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lectures/Lecture 03/src/TradeCommissions.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lectures/Lecture 03/src/WeekendOrWorkingDay.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lectures/Lecture 03/src/WorkingHours.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="279vCQj7OvJTo7EzHoSdCX4jjpM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="08d846bd-d7ca-46d1-89ef-4dc38f6c2a3b" name="Changes" comment="" />
+      <created>1648744987544</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1648744987544</updated>
+      <workItem from="1648744988872" duration="5000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
