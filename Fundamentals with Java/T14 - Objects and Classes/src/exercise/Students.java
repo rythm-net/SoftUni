@@ -18,7 +18,6 @@ public class Students {
         }
         studentList.stream().sorted((s1, s2) ->
                 Double.compare(s2.getGrade(), s1.getGrade())).forEach(student -> System.out.println(student.toString()));
-
     }
 
     static class Student {
@@ -28,8 +27,8 @@ public class Students {
 
         public Student(String firstName, String lastName, double grade) {
             this.firstName = firstName;
-            this.lastName = lastName;
-            this.grade = grade;
+            this.lastName  = lastName;
+            this.grade     = grade;
         }
 
         public String getFirstName() {
