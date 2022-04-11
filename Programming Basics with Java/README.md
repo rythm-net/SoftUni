@@ -4,9 +4,9 @@
 * Course - [**Programming Basics with Java | Основи в програмирането с Java**](https://softuni.bg/courses/programming-basics)
 * Integrated Development Environment (IDE) - [**IntelliJ IDEA Ultimate**](https://www.jetbrains.com/idea/)
 * Java SE Development Kit - [**JDK™**](https://www.oracle.com/java/technologies/downloads/#jdk17-windows)
-* **7 Lectures -** ``.pptx``
-* **7 Labs -** ``src + .docx``
-* **6 Exercises -** ``src + .docx``
+* **8 Lectures** ➔ ``.pptx``
+* **7 Labs** ➔ ``src + .docx``
+* **6 Exercises** ➔ ``src + .docx``
 ---
 ### Тема 1 - Откриване на курса
 #### [**_Лекция_**](https://github.com/rythm-net/SoftUni/blob/main/Programming%20Basics%20with%20Java/T01%20-%20Course%20Intro/01.%20Course%20Intro%20(March%202022).pptx)
