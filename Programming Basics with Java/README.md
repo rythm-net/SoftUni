@@ -1,4 +1,4 @@
-<h2 align="center">Software University - Programming Basics with Java</h2>
+<h2 align="center">Software University - Programming Basics with Java (2022)</h2>
 
 ### Overall Information
 * Course - [**Programming Basics with Java | Основи в програмирането с Java**](https://softuni.bg/courses/programming-basics)
