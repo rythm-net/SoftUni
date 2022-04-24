@@ -6,8 +6,8 @@
 * Java SE Development Kit - [**JDK™**](https://www.oracle.com/java/technologies/downloads/#jdk17-windows)
 * 8 Themes:
     * **8 Lectures** ➔ ``.pptx``
-    * **7 Labs** ➔ ``src + .docx``
-    * **6 Exercises** ➔ ``src + .docx``
+    * **7 Labs** ➔ ``/src ➔ /lecture + .docx``
+    * **6 Exercises** ➔ ``/src ➔ /exercise + .docx``
 ---
 ### Тема 1 - Откриване на курса
 #### [**_Лекция_**](https://github.com/rythm-net/SoftUni/blob/main/Programming%20Basics%20with%20Java/T01%20-%20Course%20Intro/01.%20Course%20Intro%20(March%202022).pptx)
