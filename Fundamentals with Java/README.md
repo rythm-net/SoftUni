@@ -51,7 +51,7 @@
 * _Fonts_
 ---
 ### Theme 8 - Arrays
-* _What are Arrays?_
+* _What are Arrays ?_
 * _Reading Arrays from the Console_
 * _Foreach Loop_
 --- 
@@ -73,7 +73,7 @@
 * _Software Engineering Concepts_
 ---
 ### Theme 12 - List
-* _What are Lists?_
+* _What are Lists ?_
 * _Reading Lists from the Console_
 * _Sorting Lists and Arrays_
 --- 
@@ -86,7 +86,7 @@
 * _Defining Simple Classes_
 ---
 ### Theme 15 - Bitwise Operations
-* _What is a Bit, Byte, KB, MB?_
+* _What is a Bit, Byte, KB, MB ?_
 * _Numerals Systems_
 * _Representation of Data in Computer Memory_
 ---
@@ -97,7 +97,7 @@
 ---
 ### Theme 17 - Problem Solving
 * _Fundamental Skills of Software Engineers_
-* _Problems: Definition and Problem Solving_
+* _Problems - Definition and Problem Solving_
 * _Stages of Problem Solving_
 * _Solving Exam Problems_
 ---
@@ -107,12 +107,32 @@
 * _Building and Modifying Strings_
 ---
 ### Theme 19 - Database Basics
-_Databases Introduction_
-_SQL vs. NoSQL Databases_
-_DBMS Systems_
-_Relational Databases, SQL and MySQL Database_
-_NoSQL Databases and MongoDB_
-
-
-
-
+* _Databases Introduction_
+* _SQL vs. NoSQL Databases_
+* _DBMS Systems_
+* _Relational Databases, SQL and MySQL Database_
+* _NoSQL Databases and MongoDB_
+---
+### Theme 20 - Regular Expressions
+* _Regular Expressions_
+* _Quantifiers and Grouping_
+* _Backreferences_
+---
+### Theme 21 - Git and GitHub
+* _Software Configuration Management_
+* _Introduction to Git_
+* _Introduction to GitHub_
+---
+### Theme 22 - Final Exam Preparation
+---
+### Theme 23 - QA Introduction
+* _Software Quality Assurance_
+* _QA Engineers and Resposibilities_
+* _Bugs and Bug Trackers_
+* _Testing, Test Types and Test Levels_
+* _Test Automation, Frameworks and Tools_
+---
+### Theme 24 - Basic Web Project
+* _Model-View Controller (MVC)_
+* _Spring MVC (Annotations, Controllers, Processing Requests)_
+* _Thymeleaf View Engine_
