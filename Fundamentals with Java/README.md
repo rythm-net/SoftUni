@@ -6,9 +6,9 @@
 * Java SE Development Kit - [**JDK™**](https://www.oracle.com/java/technologies/downloads/#jdk17-windows)
 * 24 Themes:
     * **22 Lectures** ➔ ``.pptx``
-    * **16 Labs** ➔ ``src ➔ lecture + .docx``
-    * **9 Exercises** ➔ ``src ➔ exercise + .docx``
-    * **9 More Exercises** ➔ ``src ➔ moreExercise + .docx``
+    * **16 Labs** ➔ ``/src ➔ /lecture + .docx``
+    * **9 Exercises** ➔ ``/src ➔ /exercise + .docx``
+    * **9 More Exercises** ➔ ``/src ➔ /moreExercise + .docx``
 <!-- * Integrated Development Environment (IDE) - [**JetBrains Rider**](https://www.jetbrains.com/rider/) -->
 <!-- * NET Framework (including ASP.NET Core) - [**.NET**](https://dotnet.microsoft.com/en-us/download) -->
 ---
