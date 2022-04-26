@@ -13,6 +13,7 @@
 <!-- * NET Framework (including ASP.NET Core) - [**.NET**](https://dotnet.microsoft.com/en-us/download) -->
 ---
 ### Theme 1 - IT Talks
+#### [_**Lecture**_](https://github.com/rythm-net/SoftUni/blob/main/Fundamentals%20with%20Java/T01%20-%20IT%20Talks/01.%20SoftUni%20and%20Partners.pptx)
 ---
 ### Theme 2 - Language Comparison
 ---
