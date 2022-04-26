@@ -16,10 +16,13 @@
 #### [_**Lecture**_](https://github.com/rythm-net/SoftUni/blob/main/Fundamentals%20with%20Java/T01%20-%20IT%20Talks/01.%20SoftUni%20and%20Partners.pptx)
 ---
 ### Theme 2 - Language Comparison
+#### [_**Lecture**_](https://github.com/rythm-net/SoftUni/blob/main/Fundamentals%20with%20Java/T02%20-%20Language%20Comparison/02.%20Language%20Comparison.pptx)
 ---
 ### Theme 3 - Course Introduction
+#### [_**Lecture**_](https://github.com/rythm-net/SoftUni/blob/main/Fundamentals%20with%20Java/T03%20-%20Course%20Introduction/03.%20Course%20Introduction.pptx)
 ---
 ### Theme 4 - Basic Syntax, Conditional Statements and Loops
+#### [_**Lecture**_](https://github.com/rythm-net/SoftUni/blob/main/Fundamentals%20with%20Java/T04%20-%20Basic%20Syntax%2C%20Conditional%20Statements%2C%20Loops/04.%20Basic%20Syntax%20Conditional%20Statements%20and%20Loops.pptx) **/** [_**Lab**_](https://github.com/rythm-net/SoftUni/tree/main/Fundamentals%20with%20Java/T04%20-%20Basic%20Syntax%2C%20Conditional%20Statements%2C%20Loops/src/lecture) **/** [_**Exercise**_](https://github.com/rythm-net/SoftUni/tree/main/Fundamentals%20with%20Java/T04%20-%20Basic%20Syntax%2C%20Conditional%20Statements%2C%20Loops/src/exercise) **/** [_**More Exercises**_](https://github.com/rythm-net/SoftUni/tree/main/Fundamentals%20with%20Java/T04%20-%20Basic%20Syntax%2C%20Conditional%20Statements%2C%20Loops/src/moreExercise)
 * _Introduction to Basic Syntax_
 * _Input / Output_
 * _Comparison Operators_
