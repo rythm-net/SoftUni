@@ -32,6 +32,7 @@
 * _Debugging and Troubleshooting_
 ---
 ### Theme 5 - HTTP Basics
+#### [_**Lecture**_](https://github.com/rythm-net/SoftUni/blob/main/Fundamentals%20with%20Java/T05%20-%20HTTP%20Basics/05.%20HTTP%20Basics.pptx) **/** [_**Lab**_](https://github.com/rythm-net/SoftUni/blob/main/Fundamentals%20with%20Java/T05%20-%20HTTP%20Basics/05.%20HTTP%20Basics%20(Lab).docx)
 * _HTTP Developer Tools_
 * _HTML Forms, Request, Response_
 * _URLs and ERL Structure_
