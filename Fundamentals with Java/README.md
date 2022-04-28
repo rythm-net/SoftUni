@@ -38,6 +38,7 @@
 * _URLs and ERL Structure_
 ---
 ### Theme 6 - Data Types and Variables
+#### [_**Lecture**_](https://github.com/rythm-net/SoftUni/blob/main/Fundamentals%20with%20Java/T06%20-%20Data%20Types%20and%20Variables/06.%20Data%20Types%20and%20Variables.pptx) **/** [_**Lab**_](https://github.com/rythm-net/SoftUni/tree/main/Fundamentals%20with%20Java/T06%20-%20Data%20Types%20and%20Variables/src/lecture) **/** [_**Exercise**_](https://github.com/rythm-net/SoftUni/tree/main/Fundamentals%20with%20Java/T06%20-%20Data%20Types%20and%20Variables/src/exercise) **/** [_**More Exercises**_](https://github.com/rythm-net/SoftUni/tree/main/Fundamentals%20with%20Java/T06%20-%20Data%20Types%20and%20Variables/src/moreExercise)
 * _Data Types and Variables_
 * _Integer Types_
 * _Real Number Types_
@@ -47,6 +48,7 @@
 * _String Type_
 --- 
 ### Theme 7 - HTML & CSS Basics
+#### [_**Lecture**_](https://github.com/rythm-net/SoftUni/blob/main/Fundamentals%20with%20Java/T07%20-%20HTML%20%26%20CSS%20Basics/07.%20HTML%20and%20CSS%20Basics.pptx) **/** [_**Lab**_](https://github.com/rythm-net/SoftUni/blob/main/Fundamentals%20with%20Java/T07%20-%20HTML%20%26%20CSS%20Basics/07.%20HTML%20and%20CSS%20Basics%20(Lab).docx)
 * _Intro to HTML_
 * _HTML Common Elements_
 * _Introduction to CSS_
@@ -56,33 +58,39 @@
 * _Fonts_
 ---
 ### Theme 8 - Arrays
+#### [_**Lecture**_](https://github.com/rythm-net/SoftUni/blob/main/Fundamentals%20with%20Java/T08%20-%20Arrays/08.%20Arrays.pptx) **/** [_**Lab**_](https://github.com/rythm-net/SoftUni/tree/main/Fundamentals%20with%20Java/T08%20-%20Arrays/src/lecture) **/** [_**Exercise**_](https://github.com/rythm-net/SoftUni/tree/main/Fundamentals%20with%20Java/T08%20-%20Arrays/src/exercise) **/** [_**More Exercise**_](https://github.com/rythm-net/SoftUni/tree/main/Fundamentals%20with%20Java/T08%20-%20Arrays/src/moreExercise)
 * _What are Arrays ?_
 * _Reading Arrays from the Console_
 * _Foreach Loop_
 --- 
 ### Theme 9 - Software Development Concepts (Part 1)
+#### [_**Lecture**_](https://github.com/rythm-net/SoftUni/blob/main/Fundamentals%20with%20Java/T09%20-%20Software%20Development%20Concepts%20(Part%201)/09.%20Software%20Development%20Concepts%20(Part%201).pptx)
 * _The 4 Skills of Sotware Engineers_
 * _Fundamental Software Engineering Concepts_
 * _Software Architectures, Front-End and Back-End_
 ---
 ### Theme 10 - Methods
+#### [_**Lecture**_](https://github.com/rythm-net/SoftUni/blob/main/Fundamentals%20with%20Java/T10%20-%20Methods/10.%20Methods.pptx) **/** [_**Lab**_](https://github.com/rythm-net/SoftUni/tree/main/Fundamentals%20with%20Java/T10%20-%20Methods/src/lecture) **/** [_**Exercise**_](https://github.com/rythm-net/SoftUni/tree/main/Fundamentals%20with%20Java/T10%20-%20Methods/src/exercise) **/** [_**More Exercise**_](https://github.com/rythm-net/SoftUni/tree/main/Fundamentals%20with%20Java/T10%20-%20Methods/src/moreExercise)
 * _Declaring and Invoking Methods_
 * _Value vs Reference Types_
 * _Overloading Methods_
 * _Naming and Best Practices_
 ---
 ### Theme 11 - Software Development Concepts (Part 2)
+#### [_**Lecture**_](https://github.com/rythm-net/SoftUni/blob/main/Fundamentals%20with%20Java/T11%20-%20Software%20Development%20Concepts%20(Part%202)/11.%20Software%20Development%20Concepts%20(Part%202).pptx)
 * _Front-End Development Concepts_
 * _Back-End Development Concepts_
 * _Embedded Systems and IoT_
 * _Software Engineering Concepts_
 ---
 ### Theme 12 - List
+#### [_**Lecture**_](https://github.com/rythm-net/SoftUni/blob/main/Fundamentals%20with%20Java/T12%20-%20List/12.%20Lists.pptx) **/** [_**Lab**_](https://github.com/rythm-net/SoftUni/tree/main/Fundamentals%20with%20Java/T12%20-%20List/src/lecture) **/** [_**Exercise**_](https://github.com/rythm-net/SoftUni/tree/main/Fundamentals%20with%20Java/T12%20-%20List/src/exercise) **/** [_**More Exercise**_](https://github.com/rythm-net/SoftUni/tree/main/Fundamentals%20with%20Java/T12%20-%20List/src/moreExercise)
 * _What are Lists ?_
 * _Reading Lists from the Console_
 * _Sorting Lists and Arrays_
 --- 
 ### Theme 13 - Mid Exam Preparation
+#### [_**Lab**_](https://github.com/rythm-net/SoftUni/blob/main/Fundamentals%20with%20Java/T13%20-%20Mid%20Exam%20Preparation/Mid%20Exam%20Preparation.docx)
 ---
 ### Theme 14 - Objects and Classes
 * _Objects_
