@@ -93,33 +93,39 @@
 #### [_**Lab**_](https://github.com/rythm-net/SoftUni/blob/main/Fundamentals%20with%20Java/T13%20-%20Mid%20Exam%20Preparation/Mid%20Exam%20Preparation.docx)
 ---
 ### Theme 14 - Objects and Classes
+#### [_**Lecture**_](https://github.com/rythm-net/SoftUni/blob/main/Fundamentals%20with%20Java/T14%20-%20Objects%20and%20Classes/14.%20Objects%20and%20Classes.pptx) **/** [_**Lab**_](https://github.com/rythm-net/SoftUni/tree/main/Fundamentals%20with%20Java/T14%20-%20Objects%20and%20Classes/src/lecture) **/** [_**Exercise**_](https://github.com/rythm-net/SoftUni/tree/main/Fundamentals%20with%20Java/T14%20-%20Objects%20and%20Classes/src/exercise) **/** [More Exercises](https://github.com/rythm-net/SoftUni/tree/main/Fundamentals%20with%20Java/T14%20-%20Objects%20and%20Classes/src/moreExercise)
 * _Objects_
 * _Classes_
 * _Built-in Classes_
 * _Defining Simple Classes_
 ---
 ### Theme 15 - Bitwise Operations
+#### [_**Lecture**_](https://github.com/rythm-net/SoftUni/blob/main/Fundamentals%20with%20Java/T15%20-%20Bitwise%20Operations/15.%20Bitwise%20Operations.pptx) **/** [_**Lab**_](https://github.com/rythm-net/SoftUni/tree/main/Fundamentals%20with%20Java/T15%20-%20Bitwise%20Operations/src)
 * _What is a Bit, Byte, KB, MB ?_
 * _Numerals Systems_
 * _Representation of Data in Computer Memory_
 ---
 ### Theme 16 - Associative Arrays
+#### [_**Lecture**_](https://github.com/rythm-net/SoftUni/blob/main/Fundamentals%20with%20Java/T16%20-%20Associative%20Arrays/16.%20Associative%20Arrays.pptx) **/** [_**Lab**_](https://github.com/rythm-net/SoftUni/tree/main/Fundamentals%20with%20Java/T16%20-%20Associative%20Arrays/src/lecture) **/** [_**Exercise**_](https://github.com/rythm-net/SoftUni/tree/main/Fundamentals%20with%20Java/T16%20-%20Associative%20Arrays/src/exercise) **/** [_**More Exercises**_](https://github.com/rythm-net/SoftUni/tree/main/Fundamentals%20with%20Java/T16%20-%20Associative%20Arrays/src/moreExercise)
 * _Associative Arrays (HashMap, LinkedHachMap, TreeMap)_
 * _Lambda Expressions_
 * _Stream API (Filtering, Mapping)_
 ---
 ### Theme 17 - Problem Solving
+#### [_**Lecture**_](https://github.com/rythm-net/SoftUni/blob/main/Fundamentals%20with%20Java/T17%20-%20Problem%20Solving/17.%20Problem%20Solving.pptx)
 * _Fundamental Skills of Software Engineers_
 * _Problems - Definition and Problem Solving_
 * _Stages of Problem Solving_
 * _Solving Exam Problems_
 ---
 ### Theme 18 - Text Processing
+#### [_**Lecture**_](https://github.com/rythm-net/SoftUni/blob/main/Fundamentals%20with%20Java/T18%20-%20Text%20Processing/18.%20Text%20Processing.pptx) **/** [_**Lab**_](https://github.com/rythm-net/SoftUni/tree/main/Fundamentals%20with%20Java/T18%20-%20Text%20Processing/src/lecture) **/** [_**Exercise**_](https://github.com/rythm-net/SoftUni/tree/main/Fundamentals%20with%20Java/T18%20-%20Text%20Processing/src/exercise) **/** [_**More Exercises**_](https://github.com/rythm-net/SoftUni/tree/main/Fundamentals%20with%20Java/T18%20-%20Text%20Processing/src/moreExercise)
 * _Strings_
 * _Manipulating Strings_
 * _Building and Modifying Strings_
 ---
 ### Theme 19 - Database Basics
+#### [_**Lecture**_](https://github.com/rythm-net/SoftUni/blob/main/Fundamentals%20with%20Java/T19%20-%20Database%20Basics/19.%20Database%20Basics.pptx) **/** [_**Lab**_](https://github.com/rythm-net/SoftUni/blob/main/Fundamentals%20with%20Java/T19%20-%20Database%20Basics/19.%20Database%20Basics%20(Lab).docx)
 * _Databases Introduction_
 * _SQL vs. NoSQL Databases_
 * _DBMS Systems_
@@ -127,11 +133,13 @@
 * _NoSQL Databases and MongoDB_
 ---
 ### Theme 20 - Regular Expressions
+#### [_**Lecture**_](https://github.com/rythm-net/SoftUni/blob/main/Fundamentals%20with%20Java/T20%20-%20Regular%20Expressions/20.%20Regular%20Expressions%20Regex.pptx) **/** [_**Lab**_](https://github.com/rythm-net/SoftUni/tree/main/Fundamentals%20with%20Java/T20%20-%20Regular%20Expressions/src/lecture) **/** [_**Exercise**_](https://github.com/rythm-net/SoftUni/tree/main/Fundamentals%20with%20Java/T20%20-%20Regular%20Expressions/src/exercise) **/** [_**More Exercises**_](https://github.com/rythm-net/SoftUni/tree/main/Fundamentals%20with%20Java/T20%20-%20Regular%20Expressions/src/moreExercise)
 * _Regular Expressions_
 * _Quantifiers and Grouping_
 * _Backreferences_
 ---
 ### Theme 21 - Git and GitHub
+#### [_**Lecture**_](https://github.com/rythm-net/SoftUni/blob/main/Fundamentals%20with%20Java/T21%20-%20Git%20and%20GitHub/21.%20Git%20and%20GitHub.pptx) **/** [_**Lab**_](https://github.com/rythm-net/SoftUni/blob/main/Fundamentals%20with%20Java/T21%20-%20Git%20and%20GitHub/21.%20Git%20and%20GitHub%20(Lab).docx)
 * _Software Configuration Management_
 * _Introduction to Git_
 * _Introduction to GitHub_
@@ -139,6 +147,7 @@
 ### Theme 22 - Final Exam Preparation
 ---
 ### Theme 23 - QA Introduction
+#### [_**Lecture**_](https://github.com/rythm-net/SoftUni/blob/main/Fundamentals%20with%20Java/T23%20-%20QA%20Introduction/23.%20QA%20Introduction.pptx)
 * _Software Quality Assurance_
 * _QA Engineers and Resposibilities_
 * _Bugs and Bug Trackers_
@@ -146,6 +155,7 @@
 * _Test Automation, Frameworks and Tools_
 ---
 ### Theme 24 - Basic Web Project
+#### [_**Lecture**_](https://github.com/rythm-net/SoftUni/blob/main/Fundamentals%20with%20Java/T24%20-%20Basic%20Web%20Project/24.%20Basic%20Web%20Project.pptx) **/** [_**Exercise**_](https://github.com/rythm-net/SoftUni/blob/main/Fundamentals%20with%20Java/T24%20-%20Basic%20Web%20Project/24.%20Basic%20Web%20Project%20(Exercise).docx)
 * _Model-View Controller (MVC)_
 * _Spring MVC (Annotations, Controllers, Processing Requests)_
 * _Thymeleaf View Engine_
