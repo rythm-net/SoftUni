@@ -1,0 +1,15 @@
+C:\Users\PC\Documents\GitHub\SoftUni\Fundamentals with C#\T04 - Basic Syntax. Conditional Statements. Loops\Lab\Passed\bin\Debug\net6.0\Passed.exe
+C:\Users\PC\Documents\GitHub\SoftUni\Fundamentals with C#\T04 - Basic Syntax. Conditional Statements. Loops\Lab\Passed\bin\Debug\net6.0\Passed.deps.json
+C:\Users\PC\Documents\GitHub\SoftUni\Fundamentals with C#\T04 - Basic Syntax. Conditional Statements. Loops\Lab\Passed\bin\Debug\net6.0\Passed.runtimeconfig.json
+C:\Users\PC\Documents\GitHub\SoftUni\Fundamentals with C#\T04 - Basic Syntax. Conditional Statements. Loops\Lab\Passed\bin\Debug\net6.0\Passed.dll
+C:\Users\PC\Documents\GitHub\SoftUni\Fundamentals with C#\T04 - Basic Syntax. Conditional Statements. Loops\Lab\Passed\bin\Debug\net6.0\Passed.pdb
+C:\Users\PC\Documents\GitHub\SoftUni\Fundamentals with C#\T04 - Basic Syntax. Conditional Statements. Loops\Lab\Passed\obj\Debug\net6.0\Passed.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\GitHub\SoftUni\Fundamentals with C#\T04 - Basic Syntax. Conditional Statements. Loops\Lab\Passed\obj\Debug\net6.0\Passed.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\GitHub\SoftUni\Fundamentals with C#\T04 - Basic Syntax. Conditional Statements. Loops\Lab\Passed\obj\Debug\net6.0\Passed.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\GitHub\SoftUni\Fundamentals with C#\T04 - Basic Syntax. Conditional Statements. Loops\Lab\Passed\obj\Debug\net6.0\Passed.AssemblyInfo.cs
+C:\Users\PC\Documents\GitHub\SoftUni\Fundamentals with C#\T04 - Basic Syntax. Conditional Statements. Loops\Lab\Passed\obj\Debug\net6.0\Passed.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\GitHub\SoftUni\Fundamentals with C#\T04 - Basic Syntax. Conditional Statements. Loops\Lab\Passed\obj\Debug\net6.0\Passed.dll
+C:\Users\PC\Documents\GitHub\SoftUni\Fundamentals with C#\T04 - Basic Syntax. Conditional Statements. Loops\Lab\Passed\obj\Debug\net6.0\refint\Passed.dll
+C:\Users\PC\Documents\GitHub\SoftUni\Fundamentals with C#\T04 - Basic Syntax. Conditional Statements. Loops\Lab\Passed\obj\Debug\net6.0\Passed.pdb
+C:\Users\PC\Documents\GitHub\SoftUni\Fundamentals with C#\T04 - Basic Syntax. Conditional Statements. Loops\Lab\Passed\obj\Debug\net6.0\Passed.genruntimeconfig.cache
+C:\Users\PC\Documents\GitHub\SoftUni\Fundamentals with C#\T04 - Basic Syntax. Conditional Statements. Loops\Lab\Passed\obj\Debug\net6.0\ref\Passed.dll

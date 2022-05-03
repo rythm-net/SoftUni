@@ -1,0 +1,15 @@
+C:\Users\PC\Documents\GitHub\SoftUni\Fundamentals with C#\T04 - Basic Syntax. Conditional Statements. Loops\Lab\Student Information\bin\Debug\net6.0\Student Information.exe
+C:\Users\PC\Documents\GitHub\SoftUni\Fundamentals with C#\T04 - Basic Syntax. Conditional Statements. Loops\Lab\Student Information\bin\Debug\net6.0\Student Information.deps.json
+C:\Users\PC\Documents\GitHub\SoftUni\Fundamentals with C#\T04 - Basic Syntax. Conditional Statements. Loops\Lab\Student Information\bin\Debug\net6.0\Student Information.runtimeconfig.json
+C:\Users\PC\Documents\GitHub\SoftUni\Fundamentals with C#\T04 - Basic Syntax. Conditional Statements. Loops\Lab\Student Information\bin\Debug\net6.0\Student Information.dll
+C:\Users\PC\Documents\GitHub\SoftUni\Fundamentals with C#\T04 - Basic Syntax. Conditional Statements. Loops\Lab\Student Information\bin\Debug\net6.0\Student Information.pdb
+C:\Users\PC\Documents\GitHub\SoftUni\Fundamentals with C#\T04 - Basic Syntax. Conditional Statements. Loops\Lab\Student Information\obj\Debug\net6.0\Student Information.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\GitHub\SoftUni\Fundamentals with C#\T04 - Basic Syntax. Conditional Statements. Loops\Lab\Student Information\obj\Debug\net6.0\Student Information.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\GitHub\SoftUni\Fundamentals with C#\T04 - Basic Syntax. Conditional Statements. Loops\Lab\Student Information\obj\Debug\net6.0\Student Information.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\GitHub\SoftUni\Fundamentals with C#\T04 - Basic Syntax. Conditional Statements. Loops\Lab\Student Information\obj\Debug\net6.0\Student Information.AssemblyInfo.cs
+C:\Users\PC\Documents\GitHub\SoftUni\Fundamentals with C#\T04 - Basic Syntax. Conditional Statements. Loops\Lab\Student Information\obj\Debug\net6.0\Student Information.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\GitHub\SoftUni\Fundamentals with C#\T04 - Basic Syntax. Conditional Statements. Loops\Lab\Student Information\obj\Debug\net6.0\Student Information.dll
+C:\Users\PC\Documents\GitHub\SoftUni\Fundamentals with C#\T04 - Basic Syntax. Conditional Statements. Loops\Lab\Student Information\obj\Debug\net6.0\refint\Student Information.dll
+C:\Users\PC\Documents\GitHub\SoftUni\Fundamentals with C#\T04 - Basic Syntax. Conditional Statements. Loops\Lab\Student Information\obj\Debug\net6.0\Student Information.pdb
+C:\Users\PC\Documents\GitHub\SoftUni\Fundamentals with C#\T04 - Basic Syntax. Conditional Statements. Loops\Lab\Student Information\obj\Debug\net6.0\Student Information.genruntimeconfig.cache
+C:\Users\PC\Documents\GitHub\SoftUni\Fundamentals with C#\T04 - Basic Syntax. Conditional Statements. Loops\Lab\Student Information\obj\Debug\net6.0\ref\Student Information.dll

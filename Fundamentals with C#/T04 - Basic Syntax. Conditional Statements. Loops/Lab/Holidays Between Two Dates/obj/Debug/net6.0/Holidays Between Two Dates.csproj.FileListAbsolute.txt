@@ -1,0 +1,15 @@
+C:\Users\PC\Documents\GitHub\SoftUni\Fundamentals with C#\T04 - Basic Syntax. Conditional Statements. Loops\Lab\Holidays Between Two Dates\bin\Debug\net6.0\Holidays Between Two Dates.exe
+C:\Users\PC\Documents\GitHub\SoftUni\Fundamentals with C#\T04 - Basic Syntax. Conditional Statements. Loops\Lab\Holidays Between Two Dates\bin\Debug\net6.0\Holidays Between Two Dates.deps.json
+C:\Users\PC\Documents\GitHub\SoftUni\Fundamentals with C#\T04 - Basic Syntax. Conditional Statements. Loops\Lab\Holidays Between Two Dates\bin\Debug\net6.0\Holidays Between Two Dates.runtimeconfig.json
+C:\Users\PC\Documents\GitHub\SoftUni\Fundamentals with C#\T04 - Basic Syntax. Conditional Statements. Loops\Lab\Holidays Between Two Dates\bin\Debug\net6.0\Holidays Between Two Dates.dll
+C:\Users\PC\Documents\GitHub\SoftUni\Fundamentals with C#\T04 - Basic Syntax. Conditional Statements. Loops\Lab\Holidays Between Two Dates\bin\Debug\net6.0\Holidays Between Two Dates.pdb
+C:\Users\PC\Documents\GitHub\SoftUni\Fundamentals with C#\T04 - Basic Syntax. Conditional Statements. Loops\Lab\Holidays Between Two Dates\obj\Debug\net6.0\Holidays Between Two Dates.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\GitHub\SoftUni\Fundamentals with C#\T04 - Basic Syntax. Conditional Statements. Loops\Lab\Holidays Between Two Dates\obj\Debug\net6.0\Holidays Between Two Dates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\GitHub\SoftUni\Fundamentals with C#\T04 - Basic Syntax. Conditional Statements. Loops\Lab\Holidays Between Two Dates\obj\Debug\net6.0\Holidays Between Two Dates.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\GitHub\SoftUni\Fundamentals with C#\T04 - Basic Syntax. Conditional Statements. Loops\Lab\Holidays Between Two Dates\obj\Debug\net6.0\Holidays Between Two Dates.AssemblyInfo.cs
+C:\Users\PC\Documents\GitHub\SoftUni\Fundamentals with C#\T04 - Basic Syntax. Conditional Statements. Loops\Lab\Holidays Between Two Dates\obj\Debug\net6.0\Holidays Between Two Dates.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\GitHub\SoftUni\Fundamentals with C#\T04 - Basic Syntax. Conditional Statements. Loops\Lab\Holidays Between Two Dates\obj\Debug\net6.0\Holidays Between Two Dates.dll
+C:\Users\PC\Documents\GitHub\SoftUni\Fundamentals with C#\T04 - Basic Syntax. Conditional Statements. Loops\Lab\Holidays Between Two Dates\obj\Debug\net6.0\refint\Holidays Between Two Dates.dll
+C:\Users\PC\Documents\GitHub\SoftUni\Fundamentals with C#\T04 - Basic Syntax. Conditional Statements. Loops\Lab\Holidays Between Two Dates\obj\Debug\net6.0\Holidays Between Two Dates.pdb
+C:\Users\PC\Documents\GitHub\SoftUni\Fundamentals with C#\T04 - Basic Syntax. Conditional Statements. Loops\Lab\Holidays Between Two Dates\obj\Debug\net6.0\Holidays Between Two Dates.genruntimeconfig.cache
+C:\Users\PC\Documents\GitHub\SoftUni\Fundamentals with C#\T04 - Basic Syntax. Conditional Statements. Loops\Lab\Holidays Between Two Dates\obj\Debug\net6.0\ref\Holidays Between Two Dates.dll
