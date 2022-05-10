@@ -1,0 +1,15 @@
+C:\Users\PC\Documents\GitHub\SoftUni\Fundamentals with C#\T04 - Basic Syntax, Conditional Statements, Loops\exercise\10. Rage Expenses\bin\Debug\net6.0\10. Rage Expenses.exe
+C:\Users\PC\Documents\GitHub\SoftUni\Fundamentals with C#\T04 - Basic Syntax, Conditional Statements, Loops\exercise\10. Rage Expenses\bin\Debug\net6.0\10. Rage Expenses.deps.json
+C:\Users\PC\Documents\GitHub\SoftUni\Fundamentals with C#\T04 - Basic Syntax, Conditional Statements, Loops\exercise\10. Rage Expenses\bin\Debug\net6.0\10. Rage Expenses.runtimeconfig.json
+C:\Users\PC\Documents\GitHub\SoftUni\Fundamentals with C#\T04 - Basic Syntax, Conditional Statements, Loops\exercise\10. Rage Expenses\bin\Debug\net6.0\10. Rage Expenses.dll
+C:\Users\PC\Documents\GitHub\SoftUni\Fundamentals with C#\T04 - Basic Syntax, Conditional Statements, Loops\exercise\10. Rage Expenses\bin\Debug\net6.0\10. Rage Expenses.pdb
+C:\Users\PC\Documents\GitHub\SoftUni\Fundamentals with C#\T04 - Basic Syntax, Conditional Statements, Loops\exercise\10. Rage Expenses\obj\Debug\net6.0\10. Rage Expenses.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\GitHub\SoftUni\Fundamentals with C#\T04 - Basic Syntax, Conditional Statements, Loops\exercise\10. Rage Expenses\obj\Debug\net6.0\10. Rage Expenses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\GitHub\SoftUni\Fundamentals with C#\T04 - Basic Syntax, Conditional Statements, Loops\exercise\10. Rage Expenses\obj\Debug\net6.0\10. Rage Expenses.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\GitHub\SoftUni\Fundamentals with C#\T04 - Basic Syntax, Conditional Statements, Loops\exercise\10. Rage Expenses\obj\Debug\net6.0\10. Rage Expenses.AssemblyInfo.cs
+C:\Users\PC\Documents\GitHub\SoftUni\Fundamentals with C#\T04 - Basic Syntax, Conditional Statements, Loops\exercise\10. Rage Expenses\obj\Debug\net6.0\10. Rage Expenses.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\GitHub\SoftUni\Fundamentals with C#\T04 - Basic Syntax, Conditional Statements, Loops\exercise\10. Rage Expenses\obj\Debug\net6.0\10. Rage Expenses.dll
+C:\Users\PC\Documents\GitHub\SoftUni\Fundamentals with C#\T04 - Basic Syntax, Conditional Statements, Loops\exercise\10. Rage Expenses\obj\Debug\net6.0\refint\10. Rage Expenses.dll
+C:\Users\PC\Documents\GitHub\SoftUni\Fundamentals with C#\T04 - Basic Syntax, Conditional Statements, Loops\exercise\10. Rage Expenses\obj\Debug\net6.0\10. Rage Expenses.pdb
+C:\Users\PC\Documents\GitHub\SoftUni\Fundamentals with C#\T04 - Basic Syntax, Conditional Statements, Loops\exercise\10. Rage Expenses\obj\Debug\net6.0\10. Rage Expenses.genruntimeconfig.cache
+C:\Users\PC\Documents\GitHub\SoftUni\Fundamentals with C#\T04 - Basic Syntax, Conditional Statements, Loops\exercise\10. Rage Expenses\obj\Debug\net6.0\ref\10. Rage Expenses.dll

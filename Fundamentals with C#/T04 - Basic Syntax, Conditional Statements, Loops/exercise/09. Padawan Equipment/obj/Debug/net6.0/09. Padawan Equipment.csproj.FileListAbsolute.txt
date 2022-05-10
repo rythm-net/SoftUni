@@ -1,0 +1,15 @@
+C:\Users\PC\Documents\GitHub\SoftUni\Fundamentals with C#\T04 - Basic Syntax, Conditional Statements, Loops\exercise\09. Padawan Equipment\bin\Debug\net6.0\09. Padawan Equipment.exe
+C:\Users\PC\Documents\GitHub\SoftUni\Fundamentals with C#\T04 - Basic Syntax, Conditional Statements, Loops\exercise\09. Padawan Equipment\bin\Debug\net6.0\09. Padawan Equipment.deps.json
+C:\Users\PC\Documents\GitHub\SoftUni\Fundamentals with C#\T04 - Basic Syntax, Conditional Statements, Loops\exercise\09. Padawan Equipment\bin\Debug\net6.0\09. Padawan Equipment.runtimeconfig.json
+C:\Users\PC\Documents\GitHub\SoftUni\Fundamentals with C#\T04 - Basic Syntax, Conditional Statements, Loops\exercise\09. Padawan Equipment\bin\Debug\net6.0\09. Padawan Equipment.dll
+C:\Users\PC\Documents\GitHub\SoftUni\Fundamentals with C#\T04 - Basic Syntax, Conditional Statements, Loops\exercise\09. Padawan Equipment\bin\Debug\net6.0\09. Padawan Equipment.pdb
+C:\Users\PC\Documents\GitHub\SoftUni\Fundamentals with C#\T04 - Basic Syntax, Conditional Statements, Loops\exercise\09. Padawan Equipment\obj\Debug\net6.0\09. Padawan Equipment.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\GitHub\SoftUni\Fundamentals with C#\T04 - Basic Syntax, Conditional Statements, Loops\exercise\09. Padawan Equipment\obj\Debug\net6.0\09. Padawan Equipment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\GitHub\SoftUni\Fundamentals with C#\T04 - Basic Syntax, Conditional Statements, Loops\exercise\09. Padawan Equipment\obj\Debug\net6.0\09. Padawan Equipment.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\GitHub\SoftUni\Fundamentals with C#\T04 - Basic Syntax, Conditional Statements, Loops\exercise\09. Padawan Equipment\obj\Debug\net6.0\09. Padawan Equipment.AssemblyInfo.cs
+C:\Users\PC\Documents\GitHub\SoftUni\Fundamentals with C#\T04 - Basic Syntax, Conditional Statements, Loops\exercise\09. Padawan Equipment\obj\Debug\net6.0\09. Padawan Equipment.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\GitHub\SoftUni\Fundamentals with C#\T04 - Basic Syntax, Conditional Statements, Loops\exercise\09. Padawan Equipment\obj\Debug\net6.0\09. Padawan Equipment.dll
+C:\Users\PC\Documents\GitHub\SoftUni\Fundamentals with C#\T04 - Basic Syntax, Conditional Statements, Loops\exercise\09. Padawan Equipment\obj\Debug\net6.0\refint\09. Padawan Equipment.dll
+C:\Users\PC\Documents\GitHub\SoftUni\Fundamentals with C#\T04 - Basic Syntax, Conditional Statements, Loops\exercise\09. Padawan Equipment\obj\Debug\net6.0\09. Padawan Equipment.pdb
+C:\Users\PC\Documents\GitHub\SoftUni\Fundamentals with C#\T04 - Basic Syntax, Conditional Statements, Loops\exercise\09. Padawan Equipment\obj\Debug\net6.0\09. Padawan Equipment.genruntimeconfig.cache
+C:\Users\PC\Documents\GitHub\SoftUni\Fundamentals with C#\T04 - Basic Syntax, Conditional Statements, Loops\exercise\09. Padawan Equipment\obj\Debug\net6.0\ref\09. Padawan Equipment.dll

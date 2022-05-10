@@ -1,0 +1,15 @@
+C:\Users\PC\Documents\GitHub\SoftUni\Fundamentals with C#\T04 - Basic Syntax, Conditional Statements, Loops\exercise\03. Vacation\bin\Debug\net6.0\03. Vacation.exe
+C:\Users\PC\Documents\GitHub\SoftUni\Fundamentals with C#\T04 - Basic Syntax, Conditional Statements, Loops\exercise\03. Vacation\bin\Debug\net6.0\03. Vacation.deps.json
+C:\Users\PC\Documents\GitHub\SoftUni\Fundamentals with C#\T04 - Basic Syntax, Conditional Statements, Loops\exercise\03. Vacation\bin\Debug\net6.0\03. Vacation.runtimeconfig.json
+C:\Users\PC\Documents\GitHub\SoftUni\Fundamentals with C#\T04 - Basic Syntax, Conditional Statements, Loops\exercise\03. Vacation\bin\Debug\net6.0\03. Vacation.dll
+C:\Users\PC\Documents\GitHub\SoftUni\Fundamentals with C#\T04 - Basic Syntax, Conditional Statements, Loops\exercise\03. Vacation\bin\Debug\net6.0\03. Vacation.pdb
+C:\Users\PC\Documents\GitHub\SoftUni\Fundamentals with C#\T04 - Basic Syntax, Conditional Statements, Loops\exercise\03. Vacation\obj\Debug\net6.0\03. Vacation.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\GitHub\SoftUni\Fundamentals with C#\T04 - Basic Syntax, Conditional Statements, Loops\exercise\03. Vacation\obj\Debug\net6.0\03. Vacation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\GitHub\SoftUni\Fundamentals with C#\T04 - Basic Syntax, Conditional Statements, Loops\exercise\03. Vacation\obj\Debug\net6.0\03. Vacation.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\GitHub\SoftUni\Fundamentals with C#\T04 - Basic Syntax, Conditional Statements, Loops\exercise\03. Vacation\obj\Debug\net6.0\03. Vacation.AssemblyInfo.cs
+C:\Users\PC\Documents\GitHub\SoftUni\Fundamentals with C#\T04 - Basic Syntax, Conditional Statements, Loops\exercise\03. Vacation\obj\Debug\net6.0\03. Vacation.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\GitHub\SoftUni\Fundamentals with C#\T04 - Basic Syntax, Conditional Statements, Loops\exercise\03. Vacation\obj\Debug\net6.0\03. Vacation.dll
+C:\Users\PC\Documents\GitHub\SoftUni\Fundamentals with C#\T04 - Basic Syntax, Conditional Statements, Loops\exercise\03. Vacation\obj\Debug\net6.0\refint\03. Vacation.dll
+C:\Users\PC\Documents\GitHub\SoftUni\Fundamentals with C#\T04 - Basic Syntax, Conditional Statements, Loops\exercise\03. Vacation\obj\Debug\net6.0\03. Vacation.pdb
+C:\Users\PC\Documents\GitHub\SoftUni\Fundamentals with C#\T04 - Basic Syntax, Conditional Statements, Loops\exercise\03. Vacation\obj\Debug\net6.0\03. Vacation.genruntimeconfig.cache
+C:\Users\PC\Documents\GitHub\SoftUni\Fundamentals with C#\T04 - Basic Syntax, Conditional Statements, Loops\exercise\03. Vacation\obj\Debug\net6.0\ref\03. Vacation.dll

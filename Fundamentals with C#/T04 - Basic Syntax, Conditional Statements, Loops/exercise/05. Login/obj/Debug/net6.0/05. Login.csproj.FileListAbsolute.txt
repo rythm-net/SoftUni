@@ -1,0 +1,15 @@
+C:\Users\PC\Documents\GitHub\SoftUni\Fundamentals with C#\T04 - Basic Syntax, Conditional Statements, Loops\exercise\05. Login\bin\Debug\net6.0\05. Login.exe
+C:\Users\PC\Documents\GitHub\SoftUni\Fundamentals with C#\T04 - Basic Syntax, Conditional Statements, Loops\exercise\05. Login\bin\Debug\net6.0\05. Login.deps.json
+C:\Users\PC\Documents\GitHub\SoftUni\Fundamentals with C#\T04 - Basic Syntax, Conditional Statements, Loops\exercise\05. Login\bin\Debug\net6.0\05. Login.runtimeconfig.json
+C:\Users\PC\Documents\GitHub\SoftUni\Fundamentals with C#\T04 - Basic Syntax, Conditional Statements, Loops\exercise\05. Login\bin\Debug\net6.0\05. Login.dll
+C:\Users\PC\Documents\GitHub\SoftUni\Fundamentals with C#\T04 - Basic Syntax, Conditional Statements, Loops\exercise\05. Login\bin\Debug\net6.0\05. Login.pdb
+C:\Users\PC\Documents\GitHub\SoftUni\Fundamentals with C#\T04 - Basic Syntax, Conditional Statements, Loops\exercise\05. Login\obj\Debug\net6.0\05. Login.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\GitHub\SoftUni\Fundamentals with C#\T04 - Basic Syntax, Conditional Statements, Loops\exercise\05. Login\obj\Debug\net6.0\05. Login.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\GitHub\SoftUni\Fundamentals with C#\T04 - Basic Syntax, Conditional Statements, Loops\exercise\05. Login\obj\Debug\net6.0\05. Login.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\GitHub\SoftUni\Fundamentals with C#\T04 - Basic Syntax, Conditional Statements, Loops\exercise\05. Login\obj\Debug\net6.0\05. Login.AssemblyInfo.cs
+C:\Users\PC\Documents\GitHub\SoftUni\Fundamentals with C#\T04 - Basic Syntax, Conditional Statements, Loops\exercise\05. Login\obj\Debug\net6.0\05. Login.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\GitHub\SoftUni\Fundamentals with C#\T04 - Basic Syntax, Conditional Statements, Loops\exercise\05. Login\obj\Debug\net6.0\05. Login.dll
+C:\Users\PC\Documents\GitHub\SoftUni\Fundamentals with C#\T04 - Basic Syntax, Conditional Statements, Loops\exercise\05. Login\obj\Debug\net6.0\refint\05. Login.dll
+C:\Users\PC\Documents\GitHub\SoftUni\Fundamentals with C#\T04 - Basic Syntax, Conditional Statements, Loops\exercise\05. Login\obj\Debug\net6.0\05. Login.pdb
+C:\Users\PC\Documents\GitHub\SoftUni\Fundamentals with C#\T04 - Basic Syntax, Conditional Statements, Loops\exercise\05. Login\obj\Debug\net6.0\05. Login.genruntimeconfig.cache
+C:\Users\PC\Documents\GitHub\SoftUni\Fundamentals with C#\T04 - Basic Syntax, Conditional Statements, Loops\exercise\05. Login\obj\Debug\net6.0\ref\05. Login.dll
