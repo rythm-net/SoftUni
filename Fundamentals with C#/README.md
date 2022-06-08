@@ -9,7 +9,7 @@
     * **17 Labs** ➔ ``/lecture + .docx``
     * **10 Exercises** ➔ ``/exercise + .docx``
     * **9 More Exercises** ➔ ``/moreExercise + .docx``
-    * **2 Exams (Mid and Final)**
+    * **2 Exams Preparations (Mid and Final)**
 ---
 ### Theme 1 - IT Talks
 #### [**_Lecture_**](https://github.com/rythm-net/SoftUni/blob/main/Fundamentals%20with%20C%23/T01%20-%20IT%20Talks/01.%20SoftUni%20and%20Partners.pptx)
