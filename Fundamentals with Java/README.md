@@ -89,7 +89,7 @@
 * _Sorting Lists and Arrays_
 --- 
 ### Theme 13 - Mid Exam Preparation
-#### [_**Lab**_](https://github.com/rythm-net/SoftUni/blob/main/Fundamentals%20with%20Java/T13%20-%20Mid%20Exam%20Preparation/Mid%20Exam%20Preparation.docx)
+#### [_**Lab (20 February)**_](https://github.com/rythm-net/SoftUni/blob/main/Fundamentals%20with%20Java/T13%20-%20Mid%20Exam%20Preparation/Mid%20Exam%20Preparation.docx)
 ---
 ### Theme 14 - Objects and Classes
 #### [_**Lecture**_](https://github.com/rythm-net/SoftUni/blob/main/Fundamentals%20with%20Java/T14%20-%20Objects%20and%20Classes/14.%20Objects%20and%20Classes.pptx) **/** [_**Lab**_](https://github.com/rythm-net/SoftUni/tree/main/Fundamentals%20with%20Java/T14%20-%20Objects%20and%20Classes/src/lecture) **/** [_**Exercise**_](https://github.com/rythm-net/SoftUni/tree/main/Fundamentals%20with%20Java/T14%20-%20Objects%20and%20Classes/src/exercise) **/** [More Exercises](https://github.com/rythm-net/SoftUni/tree/main/Fundamentals%20with%20Java/T14%20-%20Objects%20and%20Classes/src/moreExercise)
@@ -144,6 +144,7 @@
 * _Introduction to GitHub_
 ---
 ### Theme 22 - Final Exam Preparation
+#### [_**Lab (23 March)**_](https://github.com/rythm-net/SoftUni/tree/main/Fundamentals%20with%20Java/T22%20-%20Final%20Exam%20Preparation/src/ExamPreparation23March) **/** [_**Lab (25 March)**_](https://github.com/rythm-net/SoftUni/tree/main/Fundamentals%20with%20Java/T22%20-%20Final%20Exam%20Preparation/src/ExamPreparation25March)
 ---
 ### Theme 23 - QA Introduction
 #### [_**Lecture**_](https://github.com/rythm-net/SoftUni/blob/main/Fundamentals%20with%20Java/T23%20-%20QA%20Introduction/23.%20QA%20Introduction.pptx)
