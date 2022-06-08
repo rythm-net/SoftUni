@@ -1,3 +1,5 @@
+package ExamPreparation23March;
+
 import java.util.Scanner;
 
 public class TheImitationGame {
