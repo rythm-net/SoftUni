@@ -89,7 +89,7 @@
 * _Sorting Lists and Arrays_
 --- 
 ### Theme 13 - Mid Exam Preparation
-#### [_**Lab (20 February)**_](https://github.com/rythm-net/SoftUni/blob/main/Fundamentals%20with%20Java/T13%20-%20Mid%20Exam%20Preparation/Mid%20Exam%20Preparation.docx)
+#### [_**Lab (20 February)**_](https://github.com/rythm-net/SoftUni/tree/main/Fundamentals%20with%20Java/T13%20-%20Mid%20Exam%20Preparation/src)
 ---
 ### Theme 14 - Objects and Classes
 #### [_**Lecture**_](https://github.com/rythm-net/SoftUni/blob/main/Fundamentals%20with%20Java/T14%20-%20Objects%20and%20Classes/14.%20Objects%20and%20Classes.pptx) **/** [_**Lab**_](https://github.com/rythm-net/SoftUni/tree/main/Fundamentals%20with%20Java/T14%20-%20Objects%20and%20Classes/src/lecture) **/** [_**Exercise**_](https://github.com/rythm-net/SoftUni/tree/main/Fundamentals%20with%20Java/T14%20-%20Objects%20and%20Classes/src/exercise) **/** [More Exercises](https://github.com/rythm-net/SoftUni/tree/main/Fundamentals%20with%20Java/T14%20-%20Objects%20and%20Classes/src/moreExercise)
