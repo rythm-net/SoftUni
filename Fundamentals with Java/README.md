@@ -57,7 +57,7 @@
 * _Fonts_
 ---
 ### Theme 8 - Arrays
-#### [_**Lecture**_](https://github.com/rythm-net/SoftUni/blob/main/Fundamentals%20with%20Java/T08%20-%20Arrays/08.%20Arrays.pptx) **/** [_**Lab**_](https://github.com/rythm-net/SoftUni/tree/main/Fundamentals%20with%20Java/T08%20-%20Arrays/src/lecture) **/** [_**Exercise**_](https://github.com/rythm-net/SoftUni/tree/main/Fundamentals%20with%20Java/T08%20-%20Arrays/src/exercise) **/** [_**More Exercise**_](https://github.com/rythm-net/SoftUni/tree/main/Fundamentals%20with%20Java/T08%20-%20Arrays/src/moreExercise)
+#### [_**Lecture**_](https://github.com/rythm-net/SoftUni/blob/main/Fundamentals%20with%20Java/T08%20-%20Arrays/08.%20Arrays.pptx) **/** [_**Lab**_](https://github.com/rythm-net/SoftUni/tree/main/Fundamentals%20with%20Java/T08%20-%20Arrays/src/lecture) **/** [_**Exercise**_](https://github.com/rythm-net/SoftUni/tree/main/Fundamentals%20with%20Java/T08%20-%20Arrays/src/exercise) **/** [_**More Exercises**_](https://github.com/rythm-net/SoftUni/tree/main/Fundamentals%20with%20Java/T08%20-%20Arrays/src/moreExercise)
 * _What are Arrays ?_
 * _Reading Arrays from the Console_
 * _Foreach Loop_
@@ -69,7 +69,7 @@
 * _Software Architectures, Front-End and Back-End_
 ---
 ### Theme 10 - Methods
-#### [_**Lecture**_](https://github.com/rythm-net/SoftUni/blob/main/Fundamentals%20with%20Java/T10%20-%20Methods/10.%20Methods.pptx) **/** [_**Lab**_](https://github.com/rythm-net/SoftUni/tree/main/Fundamentals%20with%20Java/T10%20-%20Methods/src/lecture) **/** [_**Exercise**_](https://github.com/rythm-net/SoftUni/tree/main/Fundamentals%20with%20Java/T10%20-%20Methods/src/exercise) **/** [_**More Exercise**_](https://github.com/rythm-net/SoftUni/tree/main/Fundamentals%20with%20Java/T10%20-%20Methods/src/moreExercise)
+#### [_**Lecture**_](https://github.com/rythm-net/SoftUni/blob/main/Fundamentals%20with%20Java/T10%20-%20Methods/10.%20Methods.pptx) **/** [_**Lab**_](https://github.com/rythm-net/SoftUni/tree/main/Fundamentals%20with%20Java/T10%20-%20Methods/src/lecture) **/** [_**Exercise**_](https://github.com/rythm-net/SoftUni/tree/main/Fundamentals%20with%20Java/T10%20-%20Methods/src/exercise) **/** [_**More Exercises**_](https://github.com/rythm-net/SoftUni/tree/main/Fundamentals%20with%20Java/T10%20-%20Methods/src/moreExercise)
 * _Declaring and Invoking Methods_
 * _Value vs Reference Types_
 * _Overloading Methods_
@@ -83,7 +83,7 @@
 * _Software Engineering Concepts_
 ---
 ### Theme 12 - List
-#### [_**Lecture**_](https://github.com/rythm-net/SoftUni/blob/main/Fundamentals%20with%20Java/T12%20-%20List/12.%20Lists.pptx) **/** [_**Lab**_](https://github.com/rythm-net/SoftUni/tree/main/Fundamentals%20with%20Java/T12%20-%20List/src/lecture) **/** [_**Exercise**_](https://github.com/rythm-net/SoftUni/tree/main/Fundamentals%20with%20Java/T12%20-%20List/src/exercise) **/** [_**More Exercise**_](https://github.com/rythm-net/SoftUni/tree/main/Fundamentals%20with%20Java/T12%20-%20List/src/moreExercise)
+#### [_**Lecture**_](https://github.com/rythm-net/SoftUni/blob/main/Fundamentals%20with%20Java/T12%20-%20List/12.%20Lists.pptx) **/** [_**Lab**_](https://github.com/rythm-net/SoftUni/tree/main/Fundamentals%20with%20Java/T12%20-%20List/src/lecture) **/** [_**Exercise**_](https://github.com/rythm-net/SoftUni/tree/main/Fundamentals%20with%20Java/T12%20-%20List/src/exercise) **/** [_**More Exercises**_](https://github.com/rythm-net/SoftUni/tree/main/Fundamentals%20with%20Java/T12%20-%20List/src/moreExercise)
 * _What are Lists ?_
 * _Reading Lists from the Console_
 * _Sorting Lists and Arrays_
