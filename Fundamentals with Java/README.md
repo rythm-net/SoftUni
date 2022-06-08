@@ -4,13 +4,12 @@
 * Course - [**Fundamentals with Java | Фундаментални концепции с Java**](https://softuni.bg/trainings/3607/programming-fundamentals-with-java-january-2022)
 * Integrated Development Environment (IDE) - [**IntelliJ IDEA Ultimate**](https://www.jetbrains.com/idea/)
 * Java SE Development Kit - [**JDK™**](https://www.oracle.com/java/technologies/downloads/#jdk17-windows)
-* 24 Themes:
+* 24 Themes, which include :
     * **22 Lectures** ➔ ``.pptx``
     * **15 Labs** ➔ ``/src ➔ /lecture + .docx``
     * **10 Exercises** ➔ ``/src ➔ /exercise + .docx``
     * **9 More Exercises** ➔ ``/src ➔ /moreExercise + .docx``
-<!-- * Integrated Development Environment (IDE) - [**JetBrains Rider**](https://www.jetbrains.com/rider/) -->
-<!-- * NET Framework (including ASP.NET Core) - [**.NET**](https://dotnet.microsoft.com/en-us/download) -->
+    * **2 Exams (Mid and Final)**
 ---
 ### Theme 1 - IT Talks
 #### [_**Lecture**_](https://github.com/rythm-net/SoftUni/blob/main/Fundamentals%20with%20Java/T01%20-%20IT%20Talks/01.%20SoftUni%20and%20Partners.pptx)
