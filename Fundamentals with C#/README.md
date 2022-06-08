@@ -89,7 +89,7 @@
 * _Sorting Lists and Arrays_
 ---
 ### Theme 13 - Mid Exam Preparation
-#### [**_Lab_**](https://github.com/rythm-net/SoftUni/tree/main/Fundamentals%20with%20C%23/T13%20-%20Mid%20Exam%20Preparation)
+#### [_**Lab (20 February)**_](https://github.com/rythm-net/SoftUni/tree/main/Fundamentals%20with%20C%23/T13%20-%20Mid%20Exam%20Preparation)
 ---
 ### Theme 14 - Objects and Classes
 #### [**_Lecture_**](https://github.com/rythm-net/SoftUni/blob/main/Fundamentals%20with%20C%23/T14%20-%20Objects%20and%20Classes/14.%20Objects%20and%20Classes.pptx) **/** [**_Lab_**](https://github.com/rythm-net/SoftUni/tree/main/Fundamentals%20with%20C%23/T14%20-%20Objects%20and%20Classes/lecture) **/** [**_Exercise_**](https://github.com/rythm-net/SoftUni/tree/main/Fundamentals%20with%20C%23/T14%20-%20Objects%20and%20Classes/exercise) **/** [**_More Exercises_**](https://github.com/rythm-net/SoftUni/tree/main/Fundamentals%20with%20C%23/T14%20-%20Objects%20and%20Classes/moreExercise)
@@ -144,7 +144,7 @@
 * _Introduction to GitHub_
 ---
 ### Theme 22 - Final Exam Preparation
-#### [**_Lab (23 march)_**](https://github.com/rythm-net/SoftUni/tree/main/Fundamentals%20with%20C%23/T22%20-%20Final%20Exam%20Preparation/Exam%20Preparation%20-%2023%20march) **/** [**_Lab (26 march)_**](https://github.com/rythm-net/SoftUni/tree/main/Fundamentals%20with%20C%23/T22%20-%20Final%20Exam%20Preparation/Exam%20Preparation%20-%2026%20march)
+#### [**_Lab (23 March)_**](https://github.com/rythm-net/SoftUni/tree/main/Fundamentals%20with%20C%23/T22%20-%20Final%20Exam%20Preparation/Exam%20Preparation%20-%2023%20march) **/** [**_Lab (26 March)_**](https://github.com/rythm-net/SoftUni/tree/main/Fundamentals%20with%20C%23/T22%20-%20Final%20Exam%20Preparation/Exam%20Preparation%20-%2026%20march)
 ---
 ### Theme 23 - QA Introduction
 #### [**_Lecture_**](https://github.com/rythm-net/SoftUni/blob/main/Fundamentals%20with%20C%23/T23%20-%20QA%20Introduction/23.%20QA%20Introduction.pptx)
