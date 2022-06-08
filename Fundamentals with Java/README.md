@@ -9,7 +9,7 @@
     * **15 Labs** ➔ ``/src ➔ /lecture + .docx``
     * **10 Exercises** ➔ ``/src ➔ /exercise + .docx``
     * **9 More Exercises** ➔ ``/src ➔ /moreExercise + .docx``
-    * **2 Exams (Mid and Final)**
+    * **2 Exams Preparations (Mid and Final)**
 ---
 ### Theme 1 - IT Talks
 #### [_**Lecture**_](https://github.com/rythm-net/SoftUni/blob/main/Fundamentals%20with%20Java/T01%20-%20IT%20Talks/01.%20SoftUni%20and%20Partners.pptx)
