@@ -20,8 +20,8 @@
 |14 | [What is a unary function ?](#what-is-a-unary-function)|
 |15 | [What is the currying function ?](#what-is-the-currying-function)|
 |16 | [What is a pure function ?](#what-is-a-pure-function)|
-|17 | [What is the purpose of the let keyword ?](#what-is-the-purpose-of-the-let-keyword)|
-|18 | [What is the difference between let and var ?](#what-is-the-difference-between-let-and-var)|
+|17 | [What is the purpose of the ``let`` keyword ?](#what-is-the-purpose-of-the-let-keyword)|
+|18 | [What is the difference between ``let`` and ``var`` ?](#what-is-the-difference-between-let-and-var)|
 |19 | [What is the reason to choose the name let as a keyword ?](#what-is-the-reason-to-choose-the-name-let-as-a-keyword)|
 |20 | [How do you redeclare variables in switch block without an error ?](#how-do-you-redeclare-variables-in-switch-block-without-an-error)|
 |21 | [What is the Temporal Dead Zone ?](#what-is-the-temporal-dead-zone)|
@@ -38,7 +38,7 @@
 |32 | [How do you manipulate DOM using a service worker ?](#how-do-you-manipulate-dom-using-a-service-worker)|
 |33 | [How do you reuse information across service worker restarts ?](#how-do-you-reuse-information-across-service-worker-restarts)|
 |34 | [What is IndexedDB ?](#what-is-indexeddb)|
-|35 | [What is web storage ?](#what-is-web-storage)|
+|35 | [What is Web storage ?](#what-is-web-storage)|
 |36 | [What is a post message ?](#what-is-a-post-message)|
 |37 | [What is a cookie ?](#what-is-a-cookie)|
 |38 | [Why do you need a cookie ?](#why-do-you-need-a-cookie)|
