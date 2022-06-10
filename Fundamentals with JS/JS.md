@@ -9186,6 +9186,8 @@ Whereas the second console.log logs 10 by capturing the count variable from oute
 </p>
 </details>
 
+**[Back to Top](#table-of-contents)**
+
 ---
 
 #### 58.  What is the output of below code ?
@@ -9209,3 +9211,5 @@ Arrays have their own implementation of `toString` method that returns a comma-s
 </p>
 
 </details>
+
+**[Back to Top](#table-of-contents)**
