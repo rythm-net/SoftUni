@@ -158,4 +158,4 @@
 #### [**_Lecture_**](https://github.com/rythm-net/SoftUni/blob/main/Fundamentals%20with%20C%23/T24%20-%20Basic%20Web%20Project/24.%20Basic%20Web.pptx) **/** [**_Exercise_**](https://github.com/rythm-net/SoftUni/tree/main/Fundamentals%20with%20C%23/T24%20-%20Basic%20Web%20Project/Skeleton)
 * _Model-View Controller (MVC)_
 * _ASP.NET Core Framework_
-<!-- * _ASP.NET Core Web App - Live Demo_ -->
+* _ASP.NET Core Web App - Live Demo_
