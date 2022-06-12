@@ -1,7 +1,7 @@
-function slove (num) {
-    let result = num*2
+function slove(num) {
+    let result = num * 2
     console.log(result)
-} 
- 
-slove (2)
-slove (5)
+}
+
+slove(2)
+slove(5)

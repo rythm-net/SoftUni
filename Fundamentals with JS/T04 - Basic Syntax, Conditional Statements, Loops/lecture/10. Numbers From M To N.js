@@ -1,14 +1,15 @@
-function solve(m,n) {
-    for(let i=m ; i>=n ; i--) {
+function solve(m, n) {
+
+    for (let i = m; i >= n; i--) {
         console.log(i)
     }
 }
-solve (8,5)
+//solve (8,5)
 
-function solve1(m,n) {
-    while(m>=n) {
+function solve1(m, n) {
+    while (m >= n) {
         console.log(m)
         m--
     }
 }
-solve1(8,5)
+solve1(8, 5)

@@ -15,5 +15,4 @@ function solve(input) {
         console.log('Not divisible');
     }
 }
-
 solve(1643)

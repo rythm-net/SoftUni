@@ -1,4 +1,5 @@
-function solve(num){
+function solve(num) {
+
     let age = num;
 
     if (age >= 0 && age <= 2) {
@@ -7,7 +8,7 @@ function solve(num){
         console.log('child');
     } else if (age >= 14 && age <= 19) {
         console.log('teenager');
-    } else if (age >=20 && age <= 65) {
+    } else if (age >= 20 && age <= 65) {
         console.log('adult');
     } else if (age >= 65) {
         console.log('elder');
@@ -15,5 +16,4 @@ function solve(num){
         console.log('out of bounds');
     }
 }
-
 solve(100)

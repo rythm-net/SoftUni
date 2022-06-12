@@ -1,5 +1,5 @@
 function solve(country) {
-    if(country === 'England' || country === 'USA') {
+    if (country === 'England' || country === 'USA') {
         console.log('English')
     } else if (country === 'Spain' || country === 'Argentina' || country === 'Mexico') {
         console.log('Spanish')
@@ -8,5 +8,5 @@ function solve(country) {
     }
 }
 
-solve ('USA')
-solve ('Germany')
+solve('USA')
+solve('Germany')
