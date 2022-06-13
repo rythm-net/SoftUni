@@ -158,5 +158,5 @@
 #### [_**Lecture**_](https://github.com/rythm-net/SoftUni/blob/main/Fundamentals%20with%20Java/T24%20-%20Basic%20Web%20Project/24.%20Basic%20Web%20Project.pptx) **/** [_**Exercise**_](https://github.com/rythm-net/SoftUni/blob/main/Fundamentals%20with%20Java/T24%20-%20Basic%20Web%20Project/24.%20Basic%20Web%20Project%20(Exercise).docx)
 * _Model-View Controller (MVC)_
 * _Spring MVC (Annotations, Controllers, Processing Requests)_
-* _Thymeleaf View Engine_
-
+<!-- * _Thymeleaf View Engine_
+ -->
