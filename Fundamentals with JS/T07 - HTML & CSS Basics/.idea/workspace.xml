@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f1a2e4d2-aeba-42fc-887d-15cf7bb8bd69" name="Changes" comment="" />
+    <list default="true" id="f1a2e4d2-aeba-42fc-887d-15cf7bb8bd69" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -9,6 +11,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2AYtSed6onJXTpKiF5fMa9zfiko" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -22,6 +27,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "last_opened_file_path": "C:/Users/PC/Documents/GitHub/SoftUni/Fundamentals with JS/T07 - HTML & CSS Basics",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -34,6 +40,7 @@
       <option name="presentableId" value="Default" />
       <updated>1655198348241</updated>
       <workItem from="1655198349442" duration="5000" />
+      <workItem from="1655209389393" duration="18000" />
     </task>
     <servers />
   </component>
