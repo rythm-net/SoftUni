@@ -1,4 +1,4 @@
-<h2 align="center">Software University - Fundamentals with C# (2022)</h2>
+<h2 align="center">🎓 Software University - Fundamentals with C# (2022)</h2>
 
 ### Overall Information
 * Course - [**Fundamentals with C# | Фундаментални концепции с C#**](https://softuni.bg/trainings/3606/programming-fundamentals-with-csharp-january-2022)
