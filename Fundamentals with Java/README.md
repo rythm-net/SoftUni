@@ -1,4 +1,4 @@
-<h2 align="center">Software University - Fundamentals with Java (2022)</h2>
+<h2 align="center">🎓 Software University - Fundamentals with Java (2022)</h2>
 
 ### Overall Information
 * Course - [**Fundamentals with Java | Фундаментални концепции с Java**](https://softuni.bg/trainings/3607/programming-fundamentals-with-java-january-2022)
