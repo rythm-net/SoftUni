@@ -8,6 +8,7 @@
     * **8 Lectures** ➔ ``.pptx``
     * **7 Labs** ➔ ``/src ➔ /lecture + .docx``
     * **6 Exercises** ➔ ``/src ➔ /exercise + .docx``
+    * **1 Exam Preparations (Final)**
 ---
 ### Тема 1 - Откриване на курса
 #### [**_Лекция_**](https://github.com/rythm-net/SoftUni/blob/main/Programming%20Basics%20with%20Java/T01%20-%20Course%20Intro/01.%20Course%20Intro%20(March%202022).pptx)
