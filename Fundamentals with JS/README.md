@@ -156,7 +156,7 @@
 * _Test Automation, Frameworks and Tools_
 ---
 ### Theme 24 - Basic Web Project
-#### [_**Lecture**_](https://github.com/rythm-net/SoftUni/blob/main/Fundamentals%20with%20JS/T24%20-%20Basic%20Web%20Project/24.%20Basic%20Web.pptx) **/** [_**Exercise**_](https://github.com/rythm-net/SoftUni/tree/main/Fundamentals%20with%20JS/T24%20-%20Basic%20Web%20Project/24.%20Basic%20Web%20(Lab%20Resources))
+#### [_**Lecture**_](https://github.com/rythm-net/SoftUni/blob/main/Fundamentals%20with%20JS/T24%20-%20Basic%20Web%20Project/24.%20Basic%20Web.pptx) **/** [_**Exercise**_](https://github.com/rythm-net/SoftUni/tree/main/Fundamentals%20with%20JS/T24%20-%20Basic%20Web%20Project/exercise)
 * _Node Modules (HTTP, Creating simple HTTP Server)_
 * _Express.js Framework_
 * _MVC_
