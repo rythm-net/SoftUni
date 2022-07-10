@@ -101,36 +101,64 @@
 * _Classes_
 ---
 ### Theme 15 - Bitwise Operations
-#### [_**Lecture**_]()
+#### [_**Lecture**_](https://github.com/rythm-net/SoftUni/blob/main/Fundamentals%20with%20JS/T15%20-%20Bitwise%20Operations/15.%20Bitwise%20Operations.pptx) **/** [_**Lab**_](https://github.com/rythm-net/SoftUni/blob/main/Fundamentals%20with%20JS/T15%20-%20Bitwise%20Operations/15.%20Bitwise%20Operations%20(Lab).docx)
+* _What is a Bit, Byte, KB, MB ?_
+* _Numerals Systems_
+* _Representation of Data in Computer Memory_
 ---
 ### Theme 16 - Associative Arrays
-#### [_**Lecture**_]()
+#### [_**Lecture**_](https://github.com/rythm-net/SoftUni/blob/main/Fundamentals%20with%20JS/T16%20-%20Associative%20Arrays/16.%20Associative%20Arrays.pptx) **/** [_**Lab**_](https://github.com/rythm-net/SoftUni/tree/main/Fundamentals%20with%20JS/T16%20-%20Associative%20Arrays/lecture) **/** [_**Exercise**_](https://github.com/rythm-net/SoftUni/tree/main/Fundamentals%20with%20JS/T16%20-%20Associative%20Arrays/exercise) **/** [_**More Exericise**_](https://github.com/rythm-net/SoftUni/tree/main/Fundamentals%20with%20JS/T16%20-%20Associative%20Arrays/moreExercise)
+* _Associative Arrays (definition, attributes, iteration)_
+* _Map (methods, iteration)_
+* _Set (methods, iteration)_
 ---
 ### Theme 17 - Problem Solving
-#### [_**Lecture**_]()
+#### [_**Lecture**_](https://github.com/rythm-net/SoftUni/blob/main/Fundamentals%20with%20JS/T17%20-%20Problem%20Solving/17.%20Problem%20Solving.pptx)
+* _Fundamental Skills of Software Engineers_
+* _Problems - Definition and Problem Solving_
+* _Stages of Problem Solving_
+* _Solving Exam Problems_
 ---
 ### Theme 18 - Text Processing
-#### [_**Lecture**_]()
+#### [_**Lecture**_](https://github.com/rythm-net/SoftUni/blob/main/Fundamentals%20with%20JS/T18%20-%20Text%20Processing/18.%20Text%20Processing.pptx) **/** [_**Lab**_](https://github.com/rythm-net/SoftUni/tree/main/Fundamentals%20with%20JS/T18%20-%20Text%20Processing/lecture) **/** [_**Exercise**_](https://github.com/rythm-net/SoftUni/tree/main/Fundamentals%20with%20JS/T18%20-%20Text%20Processing/exercise) **/** [_**More Exericise**_](https://github.com/rythm-net/SoftUni/tree/main/Fundamentals%20with%20JS/T18%20-%20Text%20Processing/moreExercise)
+* _Strings_
+* _Manipulating Strings (Concatenating, Searching, Substring, Splitting, Replacing)_
 ---
 ### Theme 19 - Database Basics
-#### [_**Lecture**_]()
+#### [_**Lecture**_](https://github.com/rythm-net/SoftUni/blob/main/Fundamentals%20with%20JS/T19%20-%20Database%20Basics/19.%20Database%20Basics.pptx) **/** [_**Lab**_](https://github.com/rythm-net/SoftUni/blob/main/Fundamentals%20with%20JS/T19%20-%20Database%20Basics/19.%20Database%20Basics%20(Lab).docx)
+* _Databases Introduction_
+* _SQL vs. NoSQL Databases_
+* _DBMS Systems_
+* _Relational Databases, SQL and MySQL Database_
+* _NoSQL Databases and MongoDB_
 ---
 ### Theme 20 - Regular Expressions
-#### [_**Lecture**_]()
+#### [_**Lecture**_](https://github.com/rythm-net/SoftUni/blob/main/Fundamentals%20with%20JS/T20%20-%20Regular%20Expressions/20.%20Regular%20Expressions%20(Regex).pptx) **/** [_**Lab**_](https://github.com/rythm-net/SoftUni/tree/main/Fundamentals%20with%20JS/T20%20-%20Regular%20Expressions/lecture) **/** [_**Exercise**_](https://github.com/rythm-net/SoftUni/tree/main/Fundamentals%20with%20JS/T20%20-%20Regular%20Expressions/exercise) **/** [_**More Exericise**_](https://github.com/rythm-net/SoftUni/tree/main/Fundamentals%20with%20JS/T20%20-%20Regular%20Expressions/moreExercise)
+* _Regular Expressions (Definition and Pattern, Predefined Character Classes)_
+* _Quantifiers and Grouping_
+* _Backreferences_
 ---
 ### Theme 21 - Git and GitHub
-#### [_**Lecture**_]()
+#### [_**Lecture**_](https://github.com/rythm-net/SoftUni/blob/main/Fundamentals%20with%20JS/T21%20-%20Git%20and%20GitHub/21.%20Git%20and%20GitHub.pptx) **/** [_**Lab**_](https://github.com/rythm-net/SoftUni/blob/main/Fundamentals%20with%20JS/T21%20-%20Git%20and%20GitHub/21.%20Git%20and%20GitHub%20(Lab).docx)
+* _Software Configuration Management_
+* _Introduction to Git_
+* _Introduction to GitHub_
 ---
 ### Theme 22 - Final Exam Preparation
-#### [_**Lecture**_]()
+#### [_**Lab (23 March)**_](https://github.com/rythm-net/SoftUni/tree/main/Fundamentals%20with%20JS/T22%20-%20Final%20Exam%20Preparation/Exam%20Preparation%20-%2023%20march) **/** [_**Lab (25 March)**_](https://github.com/rythm-net/SoftUni/tree/main/Fundamentals%20with%20JS/T22%20-%20Final%20Exam%20Preparation/Exam%20Preparation%20-%2025%20march)
 ---
 ### Theme 23 - QA Introduction
-#### [_**Lecture**_]()
+#### [_**Lecture**_](https://github.com/rythm-net/SoftUni/blob/main/Fundamentals%20with%20JS/T23%20-%20QA%20Introduction/23.%20QA%20Introduction.pptx)
+* _Software Quality Assurance_
+* _QA Engineers and Resposibilities_
+* _Bugs and Bug Trackers_
+* _Testing, Test Types and Test Levels_
+* _Test Automation, Frameworks and Tools_
 ---
 ### Theme 24 - Basic Web Project
-#### [_**Lecture**_]()
-
-
-
-#### [_**Lecture**_]() **/** [_**Lab**_]() **/** [_**Exercise**_]() **/** [_**More Exericise**_]()
+#### [_**Lecture**_](https://github.com/rythm-net/SoftUni/blob/main/Fundamentals%20with%20JS/T24%20-%20Basic%20Web%20Project/24.%20Basic%20Web.pptx) **/** [_**Exercise**_](https://github.com/rythm-net/SoftUni/tree/main/Fundamentals%20with%20JS/T24%20-%20Basic%20Web%20Project/24.%20Basic%20Web%20(Lab%20Resources))
+* _Node Modules (HTTP, Creating simple HTTP Server)_
+* _Express.js Framework_
+* _MVC_
+* _MVC with Node, Express.js, Handlebars_
 
