@@ -85,7 +85,7 @@
 * _Software Engineering Concepts_
 ---
 ### Theme 12 - Arrays Advanced
-#### [_**Lecture**_](https://github.com/rythm-net/SoftUni/blob/main/Fundamentals%20with%20JS/T12%20-%20Arrays%20Advanced/10.%20Arrays%20Advanced.pptx) **/** [_**Lab**_](https://github.com/rythm-net/SoftUni/tree/main/Fundamentals%20with%20JS/T12%20-%20Arrays%20Advanced/lecture) **/** [_**Exercise**_](https://github.com/rythm-net/SoftUni/tree/main/Fundamentals%20with%20JS/T12%20-%20Arrays%20Advanced/exercise) **/** [_**More Exercise**_](https://github.com/rythm-net/SoftUni/tree/main/Fundamentals%20with%20JS/T12%20-%20Arrays%20Advanced/moreExercise)
+#### [_**Lecture**_](https://github.com/rythm-net/SoftUni/blob/main/Fundamentals%20with%20JS/T12%20-%20Arrays%20Advanced/12.%20Arrays%20Advanced.pptx) **/** [_**Lab**_](https://github.com/rythm-net/SoftUni/tree/main/Fundamentals%20with%20JS/T12%20-%20Arrays%20Advanced/lecture) **/** [_**Exercise**_](https://github.com/rythm-net/SoftUni/tree/main/Fundamentals%20with%20JS/T12%20-%20Arrays%20Advanced/exercise) **/** [_**More Exercise**_](https://github.com/rythm-net/SoftUni/tree/main/Fundamentals%20with%20JS/T12%20-%20Arrays%20Advanced/moreExercise)
 * _Array Functionality_
 * _Array Operations (push, pop, shift, unshift, filtering and transforming elements)_
 * _Sorting Arrays_
