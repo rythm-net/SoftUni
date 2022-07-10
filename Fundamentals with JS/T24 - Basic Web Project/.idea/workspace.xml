@@ -22,6 +22,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "last_opened_file_path": "C:/Users/PC/Documents/GitHub/SoftUni/Fundamentals with JS/T24 - Basic Web Project",
+    "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -34,6 +35,7 @@
       <option name="presentableId" value="Default" />
       <updated>1657396088306</updated>
       <workItem from="1657396093517" duration="7000" />
+      <workItem from="1657452415067" duration="30000" />
     </task>
     <servers />
   </component>
