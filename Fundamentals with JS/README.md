@@ -94,7 +94,7 @@
 #### [_**Lab (20 February)**_](https://github.com/rythm-net/SoftUni/tree/main/Fundamentals%20with%20JS/T13%20-%20Mid%20Exam%20Preparation)
 ---
 ### Theme 14 - Objects and Classes
-#### [_**Lecture**_](https://github.com/rythm-net/SoftUni/blob/main/Fundamentals%20with%20JS/T14%20-%20Objects%20and%20Classes/14.%20Objects%20and%20Classes.pptx) **/** [_**Lab**_](https://github.com/rythm-net/SoftUni/tree/main/Fundamentals%20with%20JS/T14%20-%20Objects%20and%20Classes/lecture) **/** [_**Exercise**_](https://github.com/rythm-net/SoftUni/tree/main/Fundamentals%20with%20JS/T14%20-%20Objects%20and%20Classes/exercise) **/** [_**More Exericise**_](https://github.com/rythm-net/SoftUni/tree/main/Fundamentals%20with%20JS/T14%20-%20Objects%20and%20Classes/moreExercise)
+#### [_**Lecture**_](https://github.com/rythm-net/SoftUni/blob/main/Fundamentals%20with%20JS/T14%20-%20Objects%20and%20Classes/14.%20Objects%20and%20Classes.pptx) **/** [_**Lab**_](https://github.com/rythm-net/SoftUni/tree/main/Fundamentals%20with%20JS/T14%20-%20Objects%20and%20Classes/lecture) **/** [_**Exercise**_](https://github.com/rythm-net/SoftUni/tree/main/Fundamentals%20with%20JS/T14%20-%20Objects%20and%20Classes/exercise) **/** [_**More Exercise**_](https://github.com/rythm-net/SoftUni/tree/main/Fundamentals%20with%20JS/T14%20-%20Objects%20and%20Classes/moreExercise)
 * _Objects (definition, properties and methods)_
 * _Reference vs. Value Types_
 * _JSON_
@@ -107,7 +107,7 @@
 * _Representation of Data in Computer Memory_
 ---
 ### Theme 16 - Associative Arrays
-#### [_**Lecture**_](https://github.com/rythm-net/SoftUni/blob/main/Fundamentals%20with%20JS/T16%20-%20Associative%20Arrays/16.%20Associative%20Arrays.pptx) **/** [_**Lab**_](https://github.com/rythm-net/SoftUni/tree/main/Fundamentals%20with%20JS/T16%20-%20Associative%20Arrays/lecture) **/** [_**Exercise**_](https://github.com/rythm-net/SoftUni/tree/main/Fundamentals%20with%20JS/T16%20-%20Associative%20Arrays/exercise) **/** [_**More Exericise**_](https://github.com/rythm-net/SoftUni/tree/main/Fundamentals%20with%20JS/T16%20-%20Associative%20Arrays/moreExercise)
+#### [_**Lecture**_](https://github.com/rythm-net/SoftUni/blob/main/Fundamentals%20with%20JS/T16%20-%20Associative%20Arrays/16.%20Associative%20Arrays.pptx) **/** [_**Lab**_](https://github.com/rythm-net/SoftUni/tree/main/Fundamentals%20with%20JS/T16%20-%20Associative%20Arrays/lecture) **/** [_**Exercise**_](https://github.com/rythm-net/SoftUni/tree/main/Fundamentals%20with%20JS/T16%20-%20Associative%20Arrays/exercise) **/** [_**More Exercise**_](https://github.com/rythm-net/SoftUni/tree/main/Fundamentals%20with%20JS/T16%20-%20Associative%20Arrays/moreExercise)
 * _Associative Arrays (definition, attributes, iteration)_
 * _Map (methods, iteration)_
 * _Set (methods, iteration)_
@@ -120,7 +120,7 @@
 * _Solving Exam Problems_
 ---
 ### Theme 18 - Text Processing
-#### [_**Lecture**_](https://github.com/rythm-net/SoftUni/blob/main/Fundamentals%20with%20JS/T18%20-%20Text%20Processing/18.%20Text%20Processing.pptx) **/** [_**Lab**_](https://github.com/rythm-net/SoftUni/tree/main/Fundamentals%20with%20JS/T18%20-%20Text%20Processing/lecture) **/** [_**Exercise**_](https://github.com/rythm-net/SoftUni/tree/main/Fundamentals%20with%20JS/T18%20-%20Text%20Processing/exercise) **/** [_**More Exericise**_](https://github.com/rythm-net/SoftUni/tree/main/Fundamentals%20with%20JS/T18%20-%20Text%20Processing/moreExercise)
+#### [_**Lecture**_](https://github.com/rythm-net/SoftUni/blob/main/Fundamentals%20with%20JS/T18%20-%20Text%20Processing/18.%20Text%20Processing.pptx) **/** [_**Lab**_](https://github.com/rythm-net/SoftUni/tree/main/Fundamentals%20with%20JS/T18%20-%20Text%20Processing/lecture) **/** [_**Exercise**_](https://github.com/rythm-net/SoftUni/tree/main/Fundamentals%20with%20JS/T18%20-%20Text%20Processing/exercise) **/** [_**More Exercise**_](https://github.com/rythm-net/SoftUni/tree/main/Fundamentals%20with%20JS/T18%20-%20Text%20Processing/moreExercise)
 * _Strings_
 * _Manipulating Strings (Concatenating, Searching, Substring, Splitting, Replacing)_
 ---
@@ -133,7 +133,7 @@
 * _NoSQL Databases and MongoDB_
 ---
 ### Theme 20 - Regular Expressions
-#### [_**Lecture**_](https://github.com/rythm-net/SoftUni/blob/main/Fundamentals%20with%20JS/T20%20-%20Regular%20Expressions/20.%20Regular%20Expressions%20(Regex).pptx) **/** [_**Lab**_](https://github.com/rythm-net/SoftUni/tree/main/Fundamentals%20with%20JS/T20%20-%20Regular%20Expressions/lecture) **/** [_**Exercise**_](https://github.com/rythm-net/SoftUni/tree/main/Fundamentals%20with%20JS/T20%20-%20Regular%20Expressions/exercise) **/** [_**More Exericise**_](https://github.com/rythm-net/SoftUni/tree/main/Fundamentals%20with%20JS/T20%20-%20Regular%20Expressions/moreExercise)
+#### [_**Lecture**_](https://github.com/rythm-net/SoftUni/blob/main/Fundamentals%20with%20JS/T20%20-%20Regular%20Expressions/20.%20Regular%20Expressions%20(Regex).pptx) **/** [_**Lab**_](https://github.com/rythm-net/SoftUni/tree/main/Fundamentals%20with%20JS/T20%20-%20Regular%20Expressions/lecture) **/** [_**Exercise**_](https://github.com/rythm-net/SoftUni/tree/main/Fundamentals%20with%20JS/T20%20-%20Regular%20Expressions/exercise) **/** [_**More Exercise**_](https://github.com/rythm-net/SoftUni/tree/main/Fundamentals%20with%20JS/T20%20-%20Regular%20Expressions/moreExercise)
 * _Regular Expressions (Definition and Pattern, Predefined Character Classes)_
 * _Quantifiers and Grouping_
 * _Backreferences_
