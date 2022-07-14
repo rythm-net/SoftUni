@@ -24,23 +24,23 @@
 ---
 ### Тема 3 - Проверки
 #### [**_Лекция_**](https://github.com/rythm-net/SoftUni/blob/main/Programming%20Basics%20with%20Java/T03%20-%20Conditional%20Statements/03.%20Conditional%20Statements.pptx) **/** [**_Лаб_**](https://github.com/rythm-net/SoftUni/tree/main/Programming%20Basics%20with%20Java/T03%20-%20Conditional%20Statements/src/lecture) **/** [**_Упражнение_**](https://github.com/rythm-net/SoftUni/tree/main/Programming%20Basics%20with%20Java/T03%20-%20Conditional%20Statements/src/exercise)
-* _Условни конструкции **if, if else**_
+* _Условни конструкции ```if, if else```_
 * _Логически изрази_
 ---
 ### Тема 4 - По-сложни проверки
 #### [**_Лекция_**](https://github.com/rythm-net/SoftUni/blob/main/Programming%20Basics%20with%20Java/T04%20-%20Conditional%20Statements%20(Advanced)/04.%20Conditional%20Statements%20(Advanced).pptx) **/** [**_Лаб_**](https://github.com/rythm-net/SoftUni/tree/main/Programming%20Basics%20with%20Java/T04%20-%20Conditional%20Statements%20(Advanced)/src/lecture) **/** [**_Упражнение_**](https://github.com/rythm-net/SoftUni/tree/main/Programming%20Basics%20with%20Java/T04%20-%20Conditional%20Statements%20(Advanced)/src/exercise)
 * _Вложени условни конструкции_
-* _**Switch** конструкция, форматиран изход_
+* _```Switch``` конструкция, форматиран изход_
 ---
 ### Тема 5 - For цикъл
 #### [**_Лекция_**](https://github.com/rythm-net/SoftUni/blob/main/Programming%20Basics%20with%20Java/T05%20-%20For%20Loop/05.%20For%20Loop.pptx) **/** [**_Лаб_**](https://github.com/rythm-net/SoftUni/tree/main/Programming%20Basics%20with%20Java/T05%20-%20For%20Loop/src/lecture) **/** [**_Упражнение_**](https://github.com/rythm-net/SoftUni/tree/main/Programming%20Basics%20with%20Java/T05%20-%20For%20Loop/src/exercise)
-* _**For** цикъл_
+* _```For``` цикъл_
 * _Контролни променливи_
 * _Инкрементация_
 ---
 ### Тема 6 - While цикъл
 #### [**_Лекция_**](https://github.com/rythm-net/SoftUni/blob/main/Programming%20Basics%20with%20Java/T06%20-%20While%20Loop/06.%20While%20Loop.pptx) **/** [**_Лаб_**](https://github.com/rythm-net/SoftUni/tree/main/Programming%20Basics%20with%20Java/T06%20-%20While%20Loop/src/lecture) **/** [**_Упражнение_**](https://github.com/rythm-net/SoftUni/tree/main/Programming%20Basics%20with%20Java/T06%20-%20While%20Loop/src/exercise)
-* _**While** цикъл_
+* _```While``` цикъл_
 * _Оператори за прекъсване на повторения_
 ---
 ### Тема 7 - Вложени цикли
@@ -51,5 +51,3 @@
 ### Тема 8 - Подготовка за изпит
 #### [**_Лекция_**](https://github.com/rythm-net/SoftUni/blob/main/Programming%20Basics%20with%20Java/T08%20-%20Exam%20Preparation/08.%20Exam%20Preparation.docx) **/** [**_Лаб_**](https://github.com/rythm-net/SoftUni/tree/main/Programming%20Basics%20with%20Java/T08%20-%20Exam%20Preparation/src)
 * _Решаване на изпитни задачи_
-
-
