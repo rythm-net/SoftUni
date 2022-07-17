@@ -6,6 +6,6 @@
 * Run/Debug Configurations - [**Node.js**](https://nodejs.org/en/)
 * 8 Themes, which include :
     * **8 Lectures** ➔ ``.pptx``
-    * **7 Labs** ➔ ``/src ➔ /lecture + .docx``
-    * **6 Exercises** ➔ ``/src ➔ /exercise + .docx``
+    * **7 Labs** ➔ ``/lecture + .docx``
+    * **6 Exercises** ➔ ``/exercise + .docx``
     * **1 Exam Preparations (Final)**
