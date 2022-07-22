@@ -31,3 +31,9 @@
 #### [**_Лекция_**](https://github.com/rythm-net/SoftUni/blob/main/Programming%20Basics%20with%20JS/T04%20-%20Nested%20Conditional%20Statements/04.%20Nested%20Conditional%20Statements.pptx) **/** [**_Лаб_**](https://github.com/rythm-net/SoftUni/tree/main/Programming%20Basics%20with%20JS/T04%20-%20Nested%20Conditional%20Statements/lecture) **/** [**_Упражнение_**](https://github.com/rythm-net/SoftUni/tree/main/Programming%20Basics%20with%20JS/T04%20-%20Nested%20Conditional%20Statements/exercise)
 * _Вложени условни конструкции_
 * _```Switch``` конструкция, форматиран изход_
+---
+### Тема 5 - For цикъл
+#### [**_Лекция_**](https://github.com/rythm-net/SoftUni/blob/main/Programming%20Basics%20with%20JS/T05%20-%20For%20Loop/05.%20For%20Loop.pptx) **/** [**_Лаб_**](https://github.com/rythm-net/SoftUni/tree/main/Programming%20Basics%20with%20JS/T05%20-%20For%20Loop/lecture) **/** [**_Упражнение_**](https://github.com/rythm-net/SoftUni/tree/main/Programming%20Basics%20with%20JS/T05%20-%20For%20Loop/exercise)
+* _```For``` цикъл_
+* _Контролни променливи_
+* _Инкрементация_
