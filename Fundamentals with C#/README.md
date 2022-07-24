@@ -18,7 +18,7 @@
 #### [**_Lecture_**](https://github.com/rythm-net/SoftUni/blob/main/Fundamentals%20with%20C%23/T02%20-%20Language%20Comparison/02.%20Language%20Comparison.pptx)
 ---
 ### Theme 3 - Course Introduction
-#### [**_Lecture_**](https://github.com/rythm-net/SoftUni/blob/main/Fundamentals%20with%20C%23/T03%20-%20Course%20Introduction/03.%20CSharp%20Fundamentals%20Course%20Introduction.pptx)
+#### [**_Lecture_**](https://github.com/rythm-net/SoftUni/blob/main/Fundamentals%20with%20C%23/T03%20-%20Course%20Introduction/03.%20Course%20Introduction.pptx)
 ---
 ### Theme 4 - Basic Syntax, Conditional Statements, Loops
 #### [**_Lecture_**](https://github.com/rythm-net/SoftUni/blob/main/Fundamentals%20with%20C%23/T04%20-%20Basic%20Syntax%2C%20Conditional%20Statements%2C%20Loops/04.%20Basic%20Syntax%20Conditional%20Statements%20and%20Loops.pptx) **/** [**_Lab_**](https://github.com/rythm-net/SoftUni/tree/main/Fundamentals%20with%20C%23/T04%20-%20Basic%20Syntax%2C%20Conditional%20Statements%2C%20Loops/lecture) **/** [**_Exercise_**](https://github.com/rythm-net/SoftUni/tree/main/Fundamentals%20with%20C%23/T04%20-%20Basic%20Syntax%2C%20Conditional%20Statements%2C%20Loops/exercise) **/** [**_More Exercises_**](https://github.com/rythm-net/SoftUni/tree/main/Fundamentals%20with%20C%23/T04%20-%20Basic%20Syntax%2C%20Conditional%20Statements%2C%20Loops/moreExercise)
