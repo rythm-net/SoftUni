@@ -37,7 +37,7 @@
 * _URLs and ERL Structure_
 ---
 ### Theme 6 - Data Types and Variables
-#### [**_Lecture_**](https://github.com/rythm-net/SoftUni/blob/main/Fundamentals%20with%20C%23/T06%20-%20Data%20Types%20and%20Variables/04.%20Data%20Types%20and%20Variables.pptx) **/** [**_Lab_**](https://github.com/rythm-net/SoftUni/tree/main/Fundamentals%20with%20C%23/T06%20-%20Data%20Types%20and%20Variables/lecture) **/** [**_Exercise_**](https://github.com/rythm-net/SoftUni/tree/main/Fundamentals%20with%20C%23/T06%20-%20Data%20Types%20and%20Variables/exercise) **/** [**_More Exercises_**](https://github.com/rythm-net/SoftUni/tree/main/Fundamentals%20with%20C%23/T06%20-%20Data%20Types%20and%20Variables/moreExercise)
+#### [**_Lecture_**](https://github.com/rythm-net/SoftUni/blob/main/Fundamentals%20with%20C%23/T06%20-%20Data%20Types%20and%20Variables/06.%20Data%20Types%20and%20Variables.pptx) **/** [**_Lab_**](https://github.com/rythm-net/SoftUni/tree/main/Fundamentals%20with%20C%23/T06%20-%20Data%20Types%20and%20Variables/lecture) **/** [**_Exercise_**](https://github.com/rythm-net/SoftUni/tree/main/Fundamentals%20with%20C%23/T06%20-%20Data%20Types%20and%20Variables/exercise) **/** [**_More Exercises_**](https://github.com/rythm-net/SoftUni/tree/main/Fundamentals%20with%20C%23/T06%20-%20Data%20Types%20and%20Variables/moreExercise)
 * _Data Types and Variables_
 * _Integer Types_
 * _Real Number Types_
