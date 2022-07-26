@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = _05._Number_from_100_to_200
+build_property.ProjectDir = C:\Users\PC\Documents\GitHub\SoftUni\Programming Basics with C#\T03 - Conditional Statements\lecture\05. Number from 100 to 200\
