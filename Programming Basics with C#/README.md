@@ -21,3 +21,10 @@
 #### [_**Лекция**_](https://github.com/rythm-net/SoftUni/blob/main/Programming%20Basics%20with%20C%23/T02%20-%20First%20Steps%20in%20Coding/02.%20First%20Steps%20in%20Coding.pptx) **/** [_**Лаб**_](https://github.com/rythm-net/SoftUni/tree/main/Programming%20Basics%20with%20C%23/T02%20-%20First%20Steps%20in%20Coding/lecture) **/** [_**Упражнение**_](https://github.com/rythm-net/SoftUni/tree/main/Programming%20Basics%20with%20C%23/T02%20-%20First%20Steps%20in%20Coding/exercise)
 * _Писане на много прости програми_
 * _Прости операции и пресмятания_
+---
+### Тема 3 - Проверки
+#### [**_Лекция_**](https://github.com/rythm-net/SoftUni/blob/main/Programming%20Basics%20with%20C%23/T03%20-%20Conditional%20Statements/03.%20Conditional%20Statements.pptx) **/** [**_Лаб_**](https://github.com/rythm-net/SoftUni/tree/main/Programming%20Basics%20with%20C%23/T03%20-%20Conditional%20Statements/lecture) **/** [**_Упражнение_**](https://github.com/rythm-net/SoftUni/tree/main/Programming%20Basics%20with%20C%23/T03%20-%20Conditional%20Statements/exercise)
+* _Условни конструкции ```if, if else```_
+* _Логически изрази_
+
+
