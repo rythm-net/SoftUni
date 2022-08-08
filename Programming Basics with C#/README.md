@@ -37,5 +37,9 @@
 * _```For``` цикъл_
 * _Контролни променливи_
 * _Инкрементация_
-
+---
+### Тема 6 - While цикъл
+#### [**_Лекция_**](https://github.com/rythm-net/SoftUni/blob/main/Programming%20Basics%20with%20C%23/T06%20-%20While%20Loop/06.%20While%20Loop.pptx) **/** [**_Лаб_**](https://github.com/rythm-net/SoftUni/tree/main/Programming%20Basics%20with%20C%23/T06%20-%20While%20Loop/lecture) **/** [**_Упражнение_**](https://github.com/rythm-net/SoftUni/tree/main/Programming%20Basics%20with%20C%23/T06%20-%20While%20Loop/exercise)
+* _```While``` цикъл_
+* _Оператори за прекъсване на повторения_
 
