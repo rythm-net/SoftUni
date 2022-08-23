@@ -30,3 +30,9 @@
 #### [**_Лекция_**](https://github.com/rythm-net/SoftUni/blob/main/Programming%20Basics%20with%20Python/T04%20-%20Conditional%20Statements%20(Advanced)/04.%20Conditional%20Statements%20(Advanced).pptx) **/** [**_Лаб_**](https://github.com/rythm-net/SoftUni/tree/main/Programming%20Basics%20with%20Python/T04%20-%20Conditional%20Statements%20(Advanced)/lecture) **/** [**_Упражнение_**](https://github.com/rythm-net/SoftUni/tree/main/Programming%20Basics%20with%20Python/T04%20-%20Conditional%20Statements%20(Advanced)/exercise)
 * _Вложени условни конструкции_
 * _```Switch``` конструкция, форматиран изход_
+---
+### Тема 5 - For цикъл
+#### [**_Лекция_**](https://github.com/rythm-net/SoftUni/blob/main/Programming%20Basics%20with%20Python/T05%20-%20For%20Loop/05.%20For%20Loop.pptx) **/** [**_Лаб_**](https://github.com/rythm-net/SoftUni/tree/main/Programming%20Basics%20with%20Python/T05%20-%20For%20Loop/lecture) **/** [**_Упражнение_**](https://github.com/rythm-net/SoftUni/tree/main/Programming%20Basics%20with%20Python/T05%20-%20For%20Loop/exercise)
+* _```For``` цикъл_
+* _Контролни променливи_
+* _Инкрементация_
