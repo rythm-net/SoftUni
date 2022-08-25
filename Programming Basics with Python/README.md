@@ -41,3 +41,8 @@
 #### [**_Лекция_**](https://github.com/rythm-net/SoftUni/blob/main/Programming%20Basics%20with%20Python/T06%20-%20While%20Loop/06.%20While%20Loop.pptx) **/** [**_Лаб_**](https://github.com/rythm-net/SoftUni/tree/main/Programming%20Basics%20with%20Python/T06%20-%20While%20Loop/lecture) **/** [**_Упражнение_**](https://github.com/rythm-net/SoftUni/tree/main/Programming%20Basics%20with%20Python/T06%20-%20While%20Loop/exercise)
 * _```While``` цикъл_
 * _Оператори за прекъсване на повторения_
+---
+### Тема 7 - Вложени цикли
+#### [**_Лекция_**](https://github.com/rythm-net/SoftUni/blob/main/Programming%20Basics%20with%20Python/T07%20-%20Nested%20Loops/07.%20Nested%20Loops.pptx) **/** [**_Лаб_**](https://github.com/rythm-net/SoftUni/tree/main/Programming%20Basics%20with%20Python/T07%20-%20Nested%20Loops/lecture) **/** [**_Упражнение_**](https://github.com/rythm-net/SoftUni/tree/main/Programming%20Basics%20with%20Python/T07%20-%20Nested%20Loops/exercise)
+* _Вложени цикли_
+* _По-сложни задачи с конструкции за повторение_
