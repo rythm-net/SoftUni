@@ -46,3 +46,7 @@
 #### [**_Лекция_**](https://github.com/rythm-net/SoftUni/blob/main/Programming%20Basics%20with%20Python/T07%20-%20Nested%20Loops/07.%20Nested%20Loops.pptx) **/** [**_Лаб_**](https://github.com/rythm-net/SoftUni/tree/main/Programming%20Basics%20with%20Python/T07%20-%20Nested%20Loops/lecture) **/** [**_Упражнение_**](https://github.com/rythm-net/SoftUni/tree/main/Programming%20Basics%20with%20Python/T07%20-%20Nested%20Loops/exercise)
 * _Вложени цикли_
 * _По-сложни задачи с конструкции за повторение_
+---
+### Тема 8 - Подготовка за изпит
+#### [**_Лекция_**](https://github.com/rythm-net/SoftUni/blob/main/Programming%20Basics%20with%20Python/T08%20-%20Exam%20Preparation/08.%20Exam%20Preparation.pdf) **/** [**_Лаб_**](https://github.com/rythm-net/SoftUni/tree/main/Programming%20Basics%20with%20Python/T08%20-%20Exam%20Preparation/lecture)
+* _Решаване на изпитни задачи_
