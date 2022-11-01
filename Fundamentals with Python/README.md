@@ -10,3 +10,6 @@
     * **9 Exercises** ➔ ``/exercise + .docx``
     * **9 More Exercises** ➔ ``/moreExercise + .docx``
     * **1 Exams Preparation (Final)**
+---
+### Theme 1 - IT Talks
+#### [**_Lecture_**](https://github.com/rythm-net/SoftUni/blob/main/Fundamentals%20with%20Python/T01%20-%20IT%20Talks/01.%20SoftUni%20and%20Partners.pptx)
