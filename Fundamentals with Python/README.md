@@ -13,3 +13,6 @@
 ---
 ### Theme 1 - IT Talks
 #### [**_Lecture_**](https://github.com/rythm-net/SoftUni/blob/main/Fundamentals%20with%20Python/T01%20-%20IT%20Talks/01.%20SoftUni%20and%20Partners.pptx)
+---
+### Theme 2 - Language Comparison
+#### [**_Lecture_**](https://github.com/rythm-net/SoftUni/blob/main/Fundamentals%20with%20Python/T02%20-%20Language%20Comparison/02.%20Language%20Comparison.pptx)
