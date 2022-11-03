@@ -16,3 +16,6 @@
 ---
 ### Theme 2 - Language Comparison
 #### [**_Lecture_**](https://github.com/rythm-net/SoftUni/blob/main/Fundamentals%20with%20Python/T02%20-%20Language%20Comparison/02.%20Language%20Comparison.pptx)
+---
+### Theme 3 - Course Introduction
+#### [**_Lecture_**](https://github.com/rythm-net/SoftUni/blob/main/Fundamentals%20with%20Python/T03%20-%20Course%20Introduction/03.%20Course%20Introduction.pptx)
