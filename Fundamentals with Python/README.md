@@ -19,3 +19,9 @@
 ---
 ### Theme 3 - Course Introduction
 #### [**_Lecture_**](https://github.com/rythm-net/SoftUni/blob/main/Fundamentals%20with%20Python/T03%20-%20Course%20Introduction/03.%20Course%20Introduction.pptx)
+---
+### Theme 4 - Basic Syntax, Conditional Statements and Loops
+#### [_**Lecture**_](https://github.com/rythm-net/SoftUni/blob/main/Fundamentals%20with%20Python/T04%20-%20Basic%20Syntax%2C%20Conditional%20Statements%2C%20Loops/04.%20Basic%20Syntax%20Conditional%20Statements%20and%20Loops.pptx) **/** [_**Lab**_](https://github.com/rythm-net/SoftUni/tree/main/Fundamentals%20with%20Python/T04%20-%20Basic%20Syntax%2C%20Conditional%20Statements%2C%20Loops/lecture) **/** [_**Exercise**_](https://github.com/rythm-net/SoftUni/tree/main/Fundamentals%20with%20Python/T04%20-%20Basic%20Syntax%2C%20Conditional%20Statements%2C%20Loops/exercise) **/** [_**More Exercise**_](https://github.com/rythm-net/SoftUni/tree/main/Fundamentals%20with%20Python/T04%20-%20Basic%20Syntax%2C%20Conditional%20Statements%2C%20Loops/moreExercise)
+* _Basic Syntax and First Steps_
+* _Conditional Statements (if, elif, else, indentation, and, or)_
+* _Loops_
