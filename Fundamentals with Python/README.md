@@ -33,3 +33,9 @@
 * Int, Float_
 * Booleans_
 * Additional Data Types_
+---
+### Theme 6 - HTTP Basics
+#### [**_Lecture_**](https://github.com/rythm-net/SoftUni/blob/main/Fundamentals%20with%20Python/T06%20-%20HTTP%20Basics/06.%20HTTP%20Basics.pptx) **/** [**_Lab_**](https://github.com/rythm-net/SoftUni/blob/main/Fundamentals%20with%20Python/T06%20-%20HTTP%20Basics/06.%20HTTP%20Basics%20(Lab).docx)
+* _HTTP Developer Tools_
+* _HTML Forms, Request, Response_
+* _URLs and ERL Structure_
