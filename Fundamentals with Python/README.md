@@ -21,13 +21,13 @@
 #### [**_Lecture_**](https://github.com/rythm-net/SoftUni/blob/main/Fundamentals%20with%20Python/T03%20-%20Course%20Introduction/03.%20Course%20Introduction.pptx)
 ---
 ### Theme 4 - Basic Syntax, Conditional Statements and Loops
-#### [_**Lecture**_](https://github.com/rythm-net/SoftUni/blob/main/Fundamentals%20with%20Python/T04%20-%20Basic%20Syntax%2C%20Conditional%20Statements%2C%20Loops/04.%20Basic%20Syntax%20Conditional%20Statements%20and%20Loops.pptx) **/** [_**Lab**_](https://github.com/rythm-net/SoftUni/tree/main/Fundamentals%20with%20Python/T04%20-%20Basic%20Syntax%2C%20Conditional%20Statements%2C%20Loops/lecture) **/** [_**Exercise**_](https://github.com/rythm-net/SoftUni/tree/main/Fundamentals%20with%20Python/T04%20-%20Basic%20Syntax%2C%20Conditional%20Statements%2C%20Loops/exercise) **/** [_**More Exercise**_](https://github.com/rythm-net/SoftUni/tree/main/Fundamentals%20with%20Python/T04%20-%20Basic%20Syntax%2C%20Conditional%20Statements%2C%20Loops/moreExercise)
+#### [_**Lecture**_](https://github.com/rythm-net/SoftUni/blob/main/Fundamentals%20with%20Python/T04%20-%20Basic%20Syntax%2C%20Conditional%20Statements%2C%20Loops/04.%20Basic%20Syntax%20Conditional%20Statements%20and%20Loops.pptx) **/** [_**Lab**_](https://github.com/rythm-net/SoftUni/tree/main/Fundamentals%20with%20Python/T04%20-%20Basic%20Syntax%2C%20Conditional%20Statements%2C%20Loops/lecture) **/** [_**Exercise**_](https://github.com/rythm-net/SoftUni/tree/main/Fundamentals%20with%20Python/T04%20-%20Basic%20Syntax%2C%20Conditional%20Statements%2C%20Loops/exercise) **/** [_**More Exercises**_](https://github.com/rythm-net/SoftUni/tree/main/Fundamentals%20with%20Python/T04%20-%20Basic%20Syntax%2C%20Conditional%20Statements%2C%20Loops/moreExercise)
 * _Basic Syntax and First Steps_
 * _Conditional Statements (if, elif, else, indentation, and, or)_
 * _Loops_
 ---
 ### Theme 5 - Data Types and Variables
-#### [**_Lecture_**](https://github.com/rythm-net/SoftUni/blob/main/Fundamentals%20with%20Python/T05%20-%20Data%20Types%20and%20Variables/05.%20Data%20Types%20and%20Variables.pptx) **/** [**_Lab_**](https://github.com/rythm-net/SoftUni/tree/main/Fundamentals%20with%20Python/T05%20-%20Data%20Types%20and%20Variables/lecture) **/** [**_Exercise_**](https://github.com/rythm-net/SoftUni/tree/main/Fundamentals%20with%20Python/T05%20-%20Data%20Types%20and%20Variables/exercise) **/** [**_More Exercise_**](https://github.com/rythm-net/SoftUni/tree/main/Fundamentals%20with%20Python/T05%20-%20Data%20Types%20and%20Variables/moreExercise)
+#### [**_Lecture_**](https://github.com/rythm-net/SoftUni/blob/main/Fundamentals%20with%20Python/T05%20-%20Data%20Types%20and%20Variables/05.%20Data%20Types%20and%20Variables.pptx) **/** [**_Lab_**](https://github.com/rythm-net/SoftUni/tree/main/Fundamentals%20with%20Python/T05%20-%20Data%20Types%20and%20Variables/lecture) **/** [**_Exercise_**](https://github.com/rythm-net/SoftUni/tree/main/Fundamentals%20with%20Python/T05%20-%20Data%20Types%20and%20Variables/exercise) **/** [**_More Exercises_**](https://github.com/rythm-net/SoftUni/tree/main/Fundamentals%20with%20Python/T05%20-%20Data%20Types%20and%20Variables/moreExercise)
 * _What is Data Type ?_
 * Strings_
 * Int, Float_
@@ -41,7 +41,7 @@
 * _URLs and ERL Structure_
 ---
 ### Theme 7 - HTML and CSS Basics
-#### [**_Lecture_**](https://github.com/rythm-net/SoftUni/blob/main/Fundamentals%20with%20Python/T07%20-%20Lists%20Basics/07.%20Lists%20Basics.pptx) **/** [**_Lab_**](https://github.com/rythm-net/SoftUni/tree/main/Fundamentals%20with%20Python/T07%20-%20Lists%20Basics/lecture) **/** [**_Exercise_**](https://github.com/rythm-net/SoftUni/tree/main/Fundamentals%20with%20Python/T07%20-%20Lists%20Basics/exercise) **/** [**_More Exercise_**](https://github.com/rythm-net/SoftUni/tree/main/Fundamentals%20with%20Python/T07%20-%20Lists%20Basics/moreExercise)
+#### [**_Lecture_**](https://github.com/rythm-net/SoftUni/blob/main/Fundamentals%20with%20Python/T07%20-%20Lists%20Basics/07.%20Lists%20Basics.pptx) **/** [**_Lab_**](https://github.com/rythm-net/SoftUni/tree/main/Fundamentals%20with%20Python/T07%20-%20Lists%20Basics/lecture) **/** [**_Exercise_**](https://github.com/rythm-net/SoftUni/tree/main/Fundamentals%20with%20Python/T07%20-%20Lists%20Basics/exercise) **/** [**_More Exercises_**](https://github.com/rythm-net/SoftUni/tree/main/Fundamentals%20with%20Python/T07%20-%20Lists%20Basics/moreExercise)
 * _List Definition and Usage_
 * _Storing Data_
 * _Creating Lists_
