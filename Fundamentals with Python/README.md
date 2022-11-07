@@ -39,3 +39,13 @@
 * _HTTP Developer Tools_
 * _HTML Forms, Request, Response_
 * _URLs and ERL Structure_
+---
+### Theme 7 - HTML and CSS Basics
+#### [**_Lecture_**]() **/** [**_Lab_**]() **/**
+* _List Definition and Usage_
+* _Storing Data_
+* _Creating Lists_
+* _Accessing Elements_
+* _List Manipulations_
+* _Looping Through Lists_
+* _Searching in Lists_
