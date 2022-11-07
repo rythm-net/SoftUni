@@ -27,7 +27,7 @@
 * _Loops_
 ---
 ### Theme 5 - Data Types and Variables
-#### [**_Lecture_**](https://github.com/rythm-net/SoftUni/blob/main/Fundamentals%20with%20Python/T05%20-%20Data%20Types%20and%20Variables/05.%20Data%20Types%20and%20Variables.pptx) **/** [**_Lab_**](https://github.com/rythm-net/SoftUni/tree/main/Fundamentals%20with%20Python/T05%20-%20Data%20Types%20and%20Variables/lecture) **/** [**_Exercise_**](https://github.com/rythm-net/SoftUni/tree/main/Fundamentals%20with%20Python/T05%20-%20Data%20Types%20and%20Variables/exercise) **/** [**_More Exercises_**](https://github.com/rythm-net/SoftUni/tree/main/Fundamentals%20with%20Python/T05%20-%20Data%20Types%20and%20Variables/moreExercise)
+#### [**_Lecture_**](https://github.com/rythm-net/SoftUni/blob/main/Fundamentals%20with%20Python/T05%20-%20Data%20Types%20and%20Variables/05.%20Data%20Types%20and%20Variables.pptx) **/** [**_Lab_**](https://github.com/rythm-net/SoftUni/tree/main/Fundamentals%20with%20Python/T05%20-%20Data%20Types%20and%20Variables/lecture) **/** [**_Exercise_**](https://github.com/rythm-net/SoftUni/tree/main/Fundamentals%20with%20Python/T05%20-%20Data%20Types%20and%20Variables/exercise) **/** [**_More Exercise_**](https://github.com/rythm-net/SoftUni/tree/main/Fundamentals%20with%20Python/T05%20-%20Data%20Types%20and%20Variables/moreExercise)
 * _What is Data Type ?_
 * Strings_
 * Int, Float_
@@ -41,7 +41,7 @@
 * _URLs and ERL Structure_
 ---
 ### Theme 7 - HTML and CSS Basics
-#### [**_Lecture_**]() **/** [**_Lab_**]() **/**
+#### [**_Lecture_**](https://github.com/rythm-net/SoftUni/blob/main/Fundamentals%20with%20Python/T07%20-%20Lists%20Basics/07.%20Lists%20Basics.pptx) **/** [**_Lab_**](https://github.com/rythm-net/SoftUni/tree/main/Fundamentals%20with%20Python/T07%20-%20Lists%20Basics/lecture) **/** [**_Exercise_**](https://github.com/rythm-net/SoftUni/tree/main/Fundamentals%20with%20Python/T07%20-%20Lists%20Basics/exercise) **/** [**_More Exercise_**](https://github.com/rythm-net/SoftUni/tree/main/Fundamentals%20with%20Python/T07%20-%20Lists%20Basics/moreExercise)
 * _List Definition and Usage_
 * _Storing Data_
 * _Creating Lists_
