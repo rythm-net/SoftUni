@@ -49,3 +49,13 @@
 * _List Manipulations_
 * _Looping Through Lists_
 * _Searching in Lists_
+---
+### Theme 8 - HTML and CSS Basics
+#### [**_Lecture_**](https://github.com/rythm-net/SoftUni/blob/main/Fundamentals%20with%20Python/T08%20-%20HTML%20and%20CSS%20Basics/08.%20HTML%20and%20CSS%20Basics.pptx) **/** [**_Lab_**](https://github.com/rythm-net/SoftUni/tree/main/Fundamentals%20with%20Python/T08%20-%20HTML%20and%20CSS%20Basics/08.%20HTML%20and%20CSS%20Basics%20(Resources))
+* _Intro to HTML_
+* _HTML Common Elements_
+* _Introduction to CSS_
+* _Selectors_
+* _Block Elements_
+* _Dev Tools_
+* _Fonts_
