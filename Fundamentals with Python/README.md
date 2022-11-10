@@ -59,3 +59,14 @@
 * _Block Elements_
 * _Dev Tools_
 * _Fonts_
+---
+### Theme 9 - Functions
+#### [**_Lecture_**](https://github.com/rythm-net/SoftUni/blob/main/Fundamentals%20with%20Python/T09%20-%20Functions/09.%20Functions.pptx) **/** [**_Lab_**](https://github.com/rythm-net/SoftUni/tree/main/Fundamentals%20with%20Python/T09%20-%20Functions/lecture) **/** [**_Exercise_**](https://github.com/rythm-net/SoftUni/tree/main/Fundamentals%20with%20Python/T09%20-%20Functions/exercise) **/** [**_More Exercises_**](https://github.com/rythm-net/SoftUni/tree/main/Fundamentals%20with%20Python/T09%20-%20Functions/moreExercise)
+* _Functions Overview_
+* _Declaring and Invoking Functions_
+* _Return Values_
+* _Lambda Functions_
+* _Parameters vs Arguments_
+
+
+
