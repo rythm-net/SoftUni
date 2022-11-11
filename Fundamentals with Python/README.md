@@ -67,6 +67,11 @@
 * _Return Values_
 * _Lambda Functions_
 * _Parameters vs Arguments_
-
+---
+### Theme 10 - Software Development Concepts (Part 1)
+#### [**_Lecture_**](https://github.com/rythm-net/SoftUni/blob/main/Fundamentals%20with%20Python/T10%20-%20Software%20Development%20Concepts%20(Part%201)/10.%20Software%20Development%20Concepts%20(Part%201).pptx)
+* _The 4 Skills of Sotware Engineers_
+* _Fundamental Software Engineering Concepts_
+* _Software Architectures, Front-End and Back-End_
 
 
