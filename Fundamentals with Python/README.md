@@ -1,4 +1,4 @@
-<h2 align="center">🎓 Software University - Fundamentals with Python (2020)</h2>
+d<h2 align="center">🎓 Software University - Fundamentals with Python (2020)</h2>
 
 ### Overall Information
 * Course - [**Fundamentals with Python | Фундаментални концепции с Python**](https://softuni.bg/trainings/3132/python-fundamentals-september-2020)
@@ -73,5 +73,12 @@
 * _The 4 Skills of Sotware Engineers_
 * _Fundamental Software Engineering Concepts_
 * _Software Architectures, Front-End and Back-End_
-
+---
+### Theme 11 - List Advanced
+#### [**_Lecture_**](https://github.com/rythm-net/SoftUni/blob/main/Fundamentals%20with%20Python/T11%20-%20Lists%20Advanced/11.%20Lists%20Advanced.pptx) **/** [**_Lab_**](https://github.com/rythm-net/SoftUni/tree/main/Fundamentals%20with%20Python/T11%20-%20Lists%20Advanced/lecture) **/** [**_Exercises_**](https://github.com/rythm-net/SoftUni/tree/main/Fundamentals%20with%20Python/T11%20-%20Lists%20Advanced/exercise) **/** [**_More Exercises_**](https://github.com/rythm-net/SoftUni/tree/main/Fundamentals%20with%20Python/T11%20-%20Lists%20Advanced/moreExercise)
+* _List Comprehension_
+* _List Methods_
+* _Advanced Methods_
+* _Advanced List Manipulations_
+* _The set() Method_
 
