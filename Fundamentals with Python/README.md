@@ -1,4 +1,4 @@
-d<h2 align="center">🎓 Software University - Fundamentals with Python (2020)</h2>
+<h2 align="center">🎓 Software University - Fundamentals with Python (2020)</h2>
 
 ### Overall Information
 * Course - [**Fundamentals with Python | Фундаментални концепции с Python**](https://softuni.bg/trainings/3132/python-fundamentals-september-2020)
@@ -81,4 +81,10 @@ d<h2 align="center">🎓 Software University - Fundamentals with Python (2020)</
 * _Advanced Methods_
 * _Advanced List Manipulations_
 * _The set() Method_
-
+---
+### Theme 12 - Software Development Concepts (Part 2)
+#### [**_Lecture_**](https://github.com/rythm-net/SoftUni/blob/main/Fundamentals%20with%20Python/T12%20-%20Software%20Development%20Concepts%20(Part%202)/12.%20Software%20Development%20Concepts%20(Part%202).pptx)
+* _Front-End Development Concepts_
+* _Back-End Development Concepts_
+* _Embedded Systems and IoT_
+* _Software Engineering Concepts_
