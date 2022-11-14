@@ -88,3 +88,11 @@
 * _Back-End Development Concepts_
 * _Embedded Systems and IoT_
 * _Software Engineering Concepts_
+---
+### Theme 13 - Objects and Classes
+#### [**_Lecture_**](https://github.com/rythm-net/SoftUni/blob/main/Fundamentals%20with%20Python/T13%20-%20Objects%20and%20Classes/13.%20Classes%20and%20Objects.pptx) **/** [**_Lab_**](https://github.com/rythm-net/SoftUni/tree/main/Fundamentals%20with%20Python/T13%20-%20Objects%20and%20Classes/lecture) **/** [**_Exercise_**](https://github.com/rythm-net/SoftUni/tree/main/Fundamentals%20with%20Python/T13%20-%20Objects%20and%20Classes/exercise) **/** [**_More Exercises_**](https://github.com/rythm-net/SoftUni/tree/main/Fundamentals%20with%20Python/T13%20-%20Objects%20and%20Classes/moreExercise)
+* _Object-Oriented Programming (OOP)_
+* _Classes_
+* _Objects_
+* _Class Attributes and Instance Methods_
+
