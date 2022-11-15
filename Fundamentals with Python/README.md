@@ -95,4 +95,9 @@
 * _Classes_
 * _Objects_
 * _Class Attributes and Instance Methods_
-
+---
+### Theme 14 - Bitwise Operations
+#### [**_Lecture_**](https://github.com/rythm-net/SoftUni/blob/main/Fundamentals%20with%20Python/T14%20-%20Bitwise%20Operations/14.%20Bitwise%20Operations.pptx) **/** [**_Lab_**](https://github.com/rythm-net/SoftUni/blob/main/Fundamentals%20with%20Python/T14%20-%20Bitwise%20Operations/14.%20Bitwise%20Operations%20(Lab).docx)
+* _What is a Bit, Byte, KB, MB ?_
+* _Numerals Systems_
+* _Representation of Data in Computer Memory_
