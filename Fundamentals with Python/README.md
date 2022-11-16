@@ -101,3 +101,18 @@
 * _What is a Bit, Byte, KB, MB ?_
 * _Numerals Systems_
 * _Representation of Data in Computer Memory_
+---
+### Theme 15 - Dictionaries
+#### [**_Lecture_**](https://github.com/rythm-net/SoftUni/blob/main/Fundamentals%20with%20Python/T15%20-%20Dictionaries/15.%20Dictionaries.pptx) **/** [**_Lab_**](https://github.com/rythm-net/SoftUni/tree/main/Fundamentals%20with%20Python/T15%20-%20Dictionaries/lecture) **/** [**_Exercise_**](https://github.com/rythm-net/SoftUni/tree/main/Fundamentals%20with%20Python/T15%20-%20Dictionaries/exercise) **/** [**_More Exercises_**](https://github.com/rythm-net/SoftUni/tree/main/Fundamentals%20with%20Python/T15%20-%20Dictionaries/moreExercise)
+* _Dictionary Definition_
+* _Keys and Values_
+* _Iterating Through Dictionaries_
+* _Existence in Dictionaries_
+* _Dictionary Methods_
+
+
+
+
+
+
+
