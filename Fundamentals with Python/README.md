@@ -116,7 +116,12 @@
 * _Problems - Definition and Problem Solving_
 * _Stages of Problem Solving_
 * _Solving Exam Problems_
-
+---
+### Theme 17 - Text Processing
+#### [**_Lecture_**](https://github.com/rythm-net/SoftUni/blob/main/Fundamentals%20with%20Python/T17%20-%20Text%20Processing/17.%20Text%20Processing.pptx) **/** [**_Lab_**](https://github.com/rythm-net/SoftUni/tree/main/Fundamentals%20with%20Python/T17%20-%20Text%20Processing/lecture) **/** [**_Exercise_**](https://github.com/rythm-net/SoftUni/tree/main/Fundamentals%20with%20Python/T17%20-%20Text%20Processing/exercise) **/** [**_More Exercises_**](https://github.com/rythm-net/SoftUni/tree/main/Fundamentals%20with%20Python/T17%20-%20Text%20Processing/moreExercise)
+* _String Definition_
+* _String Manipulation_
+* _String Methods_
 
 
 
