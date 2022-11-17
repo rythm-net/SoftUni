@@ -109,7 +109,13 @@
 * _Iterating Through Dictionaries_
 * _Existence in Dictionaries_
 * _Dictionary Methods_
-
+---
+### Theme 16 - Problem Solving
+#### [**_Lecture_**](https://github.com/rythm-net/SoftUni/blob/main/Fundamentals%20with%20Python/T16%20-%20Problem%20Solving/16.%20Problem%20Solving.pptx)
+* _Fundamental Skills of Software Engineers_
+* _Problems - Definition and Problem Solving_
+* _Stages of Problem Solving_
+* _Solving Exam Problems_
 
 
 
