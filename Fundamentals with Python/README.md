@@ -122,7 +122,14 @@
 * _String Definition_
 * _String Manipulation_
 * _String Methods_
-
+---
+### Theme 18 - Database Basics
+#### [**_Lecture_**](https://github.com/rythm-net/SoftUni/blob/main/Fundamentals%20with%20Python/T18%20-%20Database%20Basics/18.%20Database%20Basics.pptx) **/** [**_Lab_**](https://github.com/rythm-net/SoftUni/blob/main/Fundamentals%20with%20Python/T18%20-%20Database%20Basics/18.%20Database%20Basics%20(Lab).docx)
+* _Databases Introduction_
+* _SQL vs. NoSQL Databases_
+* _DBMS Systems_
+* _Relational Databases, SQL and MySQL Database_
+* _NoSQL Databases and MongoDB_
 
 
 
