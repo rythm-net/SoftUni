@@ -137,7 +137,3 @@
 * _Syntax_
 * _RegEx in Python_
 * _RegEx Methods_
-
-
-
-
