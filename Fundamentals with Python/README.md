@@ -130,6 +130,13 @@
 * _DBMS Systems_
 * _Relational Databases, SQL and MySQL Database_
 * _NoSQL Databases and MongoDB_
+---
+### Theme 19 - Regular Expressions
+#### [**_Lecture_**](https://github.com/rythm-net/SoftUni/blob/main/Fundamentals%20with%20Python/T19%20-%20Regular%20Expressions/19.%20Regular%20Expressions.pptx) **/** [**_Lab_**](https://github.com/rythm-net/SoftUni/tree/main/Fundamentals%20with%20Python/T19%20-%20Regular%20Expressions/lecture) **/** [**_Exercise_**](https://github.com/rythm-net/SoftUni/tree/main/Fundamentals%20with%20Python/T19%20-%20Regular%20Expressions/exercise) **/** [**_More Exercises_**](https://github.com/rythm-net/SoftUni/tree/main/Fundamentals%20with%20Python/T19%20-%20Regular%20Expressions/moreExercise)
+* _Definition_
+* _Syntax_
+* _RegEx in Python_
+* _RegEx Methods_
 
 
 
