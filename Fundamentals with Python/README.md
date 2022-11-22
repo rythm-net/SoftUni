@@ -137,3 +137,12 @@
 * _Syntax_
 * _RegEx in Python_
 * _RegEx Methods_
+---
+### Theme 20 - Git and GitHub
+#### [**_Lecture_**](https://github.com/rythm-net/SoftUni/blob/main/Fundamentals%20with%20Python/T20%20-%20Git%20and%20GitHub/20.%20Git%20and%20GitHub.pptx) **/** [**_Lab_**](https://github.com/rythm-net/SoftUni/blob/main/Fundamentals%20with%20Python/T20%20-%20Git%20and%20GitHub/20.%20Git%20and%20GitHub%20(Lab).docx)
+* _Software Configuration Management_
+* _Introduction to Git_
+* _Introduction to GitHub_
+
+
+
