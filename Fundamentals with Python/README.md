@@ -143,6 +143,13 @@
 * _Software Configuration Management_
 * _Introduction to Git_
 * _Introduction to GitHub_
-
+---
+### Theme 21 - QA Introduction
+#### [**_Lecture_**](https://github.com/rythm-net/SoftUni/blob/main/Fundamentals%20with%20Python/T21%20-%20QA%20Introduction/21.%20QA%20Introduction.pptx)
+* _Software Quality Assurance_
+* _QA Engineers and Resposibilities_
+* _Bugs and Bug Trackers_
+* _Testing, Test Types and Test Levels_
+* _Test Automation, Frameworks and Tools_
 
 
