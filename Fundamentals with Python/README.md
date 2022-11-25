@@ -151,5 +151,11 @@
 * _Bugs and Bug Trackers_
 * _Testing, Test Types and Test Levels_
 * _Test Automation, Frameworks and Tools_
+---
+### Theme 22 - Basic Web Project
+#### [**_Lab_**](https://github.com/rythm-net/SoftUni/tree/main/Fundamentals%20with%20Python/T22%20-%20Basic%20Web%20Project/FinalToDoApp) **/** [**_Exercise_**](https://github.com/rythm-net/SoftUni/tree/main/Fundamentals%20with%20Python/T22%20-%20Basic%20Web%20Project/FinalToDOAppLiveDemo)
+* _Django_
+* _Django REST_
+* _CRUD demo_
 
 
