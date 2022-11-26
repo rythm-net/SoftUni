@@ -157,5 +157,6 @@
 * _Django_
 * _Django REST_
 * _CRUD demo_
-
-
+---
+### Theme 23 - Exam Preparation
+#### [**_Lab (01 December)_**](https://github.com/rythm-net/SoftUni/tree/main/Fundamentals%20with%20Python/T23%20-%20Exam%20Preparation)
