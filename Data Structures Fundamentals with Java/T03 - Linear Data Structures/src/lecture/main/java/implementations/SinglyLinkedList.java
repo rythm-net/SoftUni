@@ -1,16 +1,19 @@
 package implementations;
 
 import interfaces.LinkedList;
+
 import java.util.Iterator;
 
 public class SinglyLinkedList<E> implements LinkedList<E> {
 
     @Override
     public void addFirst(E element) {
+
     }
 
     @Override
     public void addLast(E element) {
+
     }
 
     @Override

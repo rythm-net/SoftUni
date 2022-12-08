@@ -1,16 +1,18 @@
 package implementations;
 
-import interfaces.AbstractStack;
+import interfaces.AbstractQueue;
+
 import java.util.Iterator;
 
-public class Stack<E> implements AbstractStack<E> {
+public class Queue<E> implements AbstractQueue<E> {
 
     @Override
-    public void push(E element) {
+    public void offer(E element) {
+
     }
 
     @Override
-    public E pop() {
+    public E poll() {
         return null;
     }
 
