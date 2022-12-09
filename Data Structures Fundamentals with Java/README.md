@@ -9,3 +9,6 @@
     * **4 Labs** ➔ ``/src ➔ /lecture + .docx``
     * **3 Exercises** ➔ ``/src ➔ /exercise + .docx``
     * **1 Exam Preparations (Final)**
+---
+### Theme 1 - IT Talks
+#### [_**Lecture**_](https://github.com/rythm-net/SoftUni/blob/main/Data%20Structures%20Fundamentals%20with%20Java/T01%20-%20Course%20Intro/01.%20Course%20Introduction%20(February%202022).pptx)
