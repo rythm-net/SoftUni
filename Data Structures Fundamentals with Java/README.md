@@ -19,3 +19,10 @@
 * _Algorithmic complexity_
 * _Analyzing algorithms complexity_
 * _Memory heirarchy_
+---
+### Theme 3 - Linear Data Structures
+#### [**_Lecture_**](https://github.com/rythm-net/SoftUni/blob/main/Data%20Structures%20Fundamentals%20with%20Java/T03%20-%20Linear%20Data%20Structures/03.%20Linear%20Data%20Structures.pptx) **/** [**_Lab_**](https://github.com/rythm-net/SoftUni/tree/main/Data%20Structures%20Fundamentals%20with%20Java/T03%20-%20Linear%20Data%20Structures/src/lecture) **/** [**_Exercise_**](https://github.com/rythm-net/SoftUni/tree/main/Data%20Structures%20Fundamentals%20with%20Java/T03%20-%20Linear%20Data%20Structures/src/exercise)
+* _Linear Data Structures_
+* _Dynamic Arays_
+* _Queues_
+* _Stack_
