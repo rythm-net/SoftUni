@@ -26,3 +26,7 @@
 * _Dynamic Arays_
 * _Queues_
 * _Stack_
+---
+### Theme 4 - Trees Representation and Traversal (BFS, DFS)
+#### [**_Lecture_**](https://github.com/rythm-net/SoftUni/blob/main/Data%20Structures%20Fundamentals%20with%20Java/T04%20-%20Trees%20Representation%20and%20Traversal%20(BFS%2C%20DFS)/04.%20Trees%20Representation%20and%20Traversal%20(BFS%2C%20DFS).pptx) **/** [**_Lab_**](https://github.com/rythm-net/SoftUni/tree/main/Data%20Structures%20Fundamentals%20with%20Java/T04%20-%20Trees%20Representation%20and%20Traversal%20(BFS%2C%20DFS)/src/lecture) **/** [**_Exercise_**](https://github.com/rythm-net/SoftUni/tree/main/Data%20Structures%20Fundamentals%20with%20Java/T04%20-%20Trees%20Representation%20and%20Traversal%20(BFS%2C%20DFS)/src/exercise)
+* _Basic Tree structures BFS and DFS traversal_
