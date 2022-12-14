@@ -30,3 +30,9 @@
 ### Theme 4 - Trees Representation and Traversal (BFS, DFS)
 #### [**_Lecture_**](https://github.com/rythm-net/SoftUni/blob/main/Data%20Structures%20Fundamentals%20with%20Java/T04%20-%20Trees%20Representation%20and%20Traversal%20(BFS%2C%20DFS)/04.%20Trees%20Representation%20and%20Traversal%20(BFS%2C%20DFS).pptx) **/** [**_Lab_**](https://github.com/rythm-net/SoftUni/tree/main/Data%20Structures%20Fundamentals%20with%20Java/T04%20-%20Trees%20Representation%20and%20Traversal%20(BFS%2C%20DFS)/src/lecture) **/** [**_Exercise_**](https://github.com/rythm-net/SoftUni/tree/main/Data%20Structures%20Fundamentals%20with%20Java/T04%20-%20Trees%20Representation%20and%20Traversal%20(BFS%2C%20DFS)/src/exercise)
 * _Basic Tree structures BFS and DFS traversal_
+---
+### Theme 5 - Binary Trees, Heaps, BST
+#### [**_Lecture_**](https://github.com/rythm-net/SoftUni/blob/main/Data%20Structures%20Fundamentals%20with%20Java/T05%20-%20Binary%20Trees%2C%20Heaps%2C%20BST/05.%20Binary%20Trees%2C%20Heaps%2C%20BST.pptx) **/** [**_Lab_**](https://github.com/rythm-net/SoftUni/tree/main/Data%20Structures%20Fundamentals%20with%20Java/T05%20-%20Binary%20Trees%2C%20Heaps%2C%20BST/src/lecture) **/** [**_Exercise_**](https://github.com/rythm-net/SoftUni/tree/main/Data%20Structures%20Fundamentals%20with%20Java/T05%20-%20Binary%20Trees%2C%20Heaps%2C%20BST/src/exercise)
+* _Min and Max Heaps_
+* _Binary Search Trees_
+* _Balanced Trees_
