@@ -1,4 +1,4 @@
-<h2 align="center">🎓 Software University - Data Structures Fundamentals with Java (2022)</h2>
+<h2 align="center">🎓 Software University - Data Structures Fundamentals with Java (2021)</h2>
 
 ### Overall Information
 * Course - [**Data Structures Fundamentals with Java | Структури от данни с Java**](https://softuni.bg/trainings/3671/data-structures-fundamentals-with-java-february-2022)
