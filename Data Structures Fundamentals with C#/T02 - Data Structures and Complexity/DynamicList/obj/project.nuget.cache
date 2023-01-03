@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "64wupIcpJ8OCn4XNe38vs1ZXKxiqCmJ63q0V3zCARXA0+2Whi8FXMKEhwWwgq5LFFds0sWEh3hNyFZeutYEBjA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PC\\Documents\\GitHub\\SoftUni\\Data Structures Fundamentals with C#\\T02 - Data Structures and Complexity\\DynamicList\\DynamicList.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}
