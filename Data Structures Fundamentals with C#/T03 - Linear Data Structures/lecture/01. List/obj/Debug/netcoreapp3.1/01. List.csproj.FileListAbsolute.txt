@@ -1,0 +1,10 @@
+C:\Users\PC\Documents\GitHub\SoftUni\Data Structures Fundamentals with C#\T03 - Linear Data Structures\lecture\Problem01.List\bin\Debug\netcoreapp3.1\01. List.deps.json
+C:\Users\PC\Documents\GitHub\SoftUni\Data Structures Fundamentals with C#\T03 - Linear Data Structures\lecture\Problem01.List\bin\Debug\netcoreapp3.1\01. List.dll
+C:\Users\PC\Documents\GitHub\SoftUni\Data Structures Fundamentals with C#\T03 - Linear Data Structures\lecture\Problem01.List\bin\Debug\netcoreapp3.1\01. List.pdb
+C:\Users\PC\Documents\GitHub\SoftUni\Data Structures Fundamentals with C#\T03 - Linear Data Structures\lecture\Problem01.List\obj\Debug\netcoreapp3.1\01. List.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\GitHub\SoftUni\Data Structures Fundamentals with C#\T03 - Linear Data Structures\lecture\Problem01.List\obj\Debug\netcoreapp3.1\01. List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\GitHub\SoftUni\Data Structures Fundamentals with C#\T03 - Linear Data Structures\lecture\Problem01.List\obj\Debug\netcoreapp3.1\01. List.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\GitHub\SoftUni\Data Structures Fundamentals with C#\T03 - Linear Data Structures\lecture\Problem01.List\obj\Debug\netcoreapp3.1\01. List.AssemblyInfo.cs
+C:\Users\PC\Documents\GitHub\SoftUni\Data Structures Fundamentals with C#\T03 - Linear Data Structures\lecture\Problem01.List\obj\Debug\netcoreapp3.1\01. List.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\GitHub\SoftUni\Data Structures Fundamentals with C#\T03 - Linear Data Structures\lecture\Problem01.List\obj\Debug\netcoreapp3.1\01. List.dll
+C:\Users\PC\Documents\GitHub\SoftUni\Data Structures Fundamentals with C#\T03 - Linear Data Structures\lecture\Problem01.List\obj\Debug\netcoreapp3.1\01. List.pdb

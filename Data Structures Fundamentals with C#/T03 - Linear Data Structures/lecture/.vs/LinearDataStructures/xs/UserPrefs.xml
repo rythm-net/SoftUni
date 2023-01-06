@@ -1,0 +1,42 @@
+﻿<Properties StartupConfiguration="{B8C54A7D-035B-4684-8986-FE02DF1A3855}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Problem02.Stack/Stack.cs">
+    <Files>
+      <File FileName="Problem01.List/List.cs" Line="54" Column="1" />
+      <File FileName="Problem02.Stack/Stack.cs" Line="37" Column="1" />
+      <File FileName="Problem03.Queue/Queue.cs" Line="7" Column="35" />
+      <File FileName="Problem03.Queue.Tests/QueueTests.cs" Line="1" Column="1" />
+      <File FileName="SinglyLinkedList.Tests/SinglyLinkedListTests.cs" Line="1" Column="1" />
+      <File FileName="Problem04.SinglyLinkedList/SinglyLinkedList.cs" Line="7" Column="44" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="LinearDataStructures" expanded="True">
+            <Node name="Problem01.List" expanded="True" />
+            <Node name="Problem01.List.Tests" expanded="True" />
+            <Node name="Problem02.Stack" expanded="True">
+              <Node name="Stack.cs" selected="True" />
+            </Node>
+            <Node name="Problem02.Stack.Tests" expanded="True" />
+            <Node name="Problem03.Queue" expanded="True" />
+            <Node name="Problem03.Queue.Tests" expanded="True" />
+            <Node name="Problem04.SinglyLinkedList" expanded="True" />
+            <Node name="Problem04.SinglyLinkedList.Tests" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="LinearDataStructures" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Problem01.List.Tests PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
