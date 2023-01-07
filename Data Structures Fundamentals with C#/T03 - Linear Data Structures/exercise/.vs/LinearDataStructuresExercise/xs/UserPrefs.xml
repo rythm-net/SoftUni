@@ -1,0 +1,45 @@
+﻿<Properties StartupConfiguration="{0E467613-3488-457A-AD83-C2A5A60B9649}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="04.BalancedParentheses/BalancedParenthesesSolve.cs">
+    <Files>
+      <File FileName="01.FasterQueue/CircularQueue.cs" Line="8" Column="6" />
+      <File FileName="02.DoublyLinkedList/DoublyLinkedList.cs" Line="8" Column="6" />
+      <File FileName="03.ReversedList/IAbstractList.cs" Line="1" Column="1" />
+      <File FileName="03.ReversedList/ReversedList.cs" Line="11" Column="21" />
+      <File FileName="04.BalancedParentheses/BalancedParenthesesSolve.cs" Line="14" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="LinearDataStructuresExercise" expanded="True">
+            <Node name="01.CircularQueue" expanded="True" />
+            <Node name="01.CircularQueue.Tests" expanded="True" />
+            <Node name="02.DoublyLinkedList" expanded="True" />
+            <Node name="02.DoublyLinkedList.Tests" expanded="True" />
+            <Node name="03.ReversedList" expanded="True" />
+            <Node name="03.ReversedList.Tests" expanded="True" />
+            <Node name="04.BalancedParentheses" expanded="True">
+              <Node name="BalancedParenthesesSolve.cs" selected="True" />
+            </Node>
+            <Node name="04.BP.Tests" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="LinearDataStructuresExercise" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.02.DoublyLinkedList.Tests PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <DisabledProjects>
+    <String>01.FasterQueue.Tests/01.FasterQueue.Tests.csproj</String>
+    <String>01.FasterQueue/01.FasterQueue.csproj</String>
+  </DisabledProjects>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

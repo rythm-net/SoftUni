@@ -1,0 +1,130 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/ssheytanov/Documents/Svn/DS/Feb-2022/1.DS-Fundamentals/03.Linear-Data-Structures-Exercise/03. Linear-Data-Structures-Exercise-Solution/01.FasterQueue.Tests/01.FasterQueue.Tests.csproj": {}
+  },
+  "projects": {
+    "/Users/ssheytanov/Documents/Svn/DS/Feb-2022/1.DS-Fundamentals/03.Linear-Data-Structures-Exercise/03. Linear-Data-Structures-Exercise-Solution/01.FasterQueue.Tests/01.FasterQueue.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/ssheytanov/Documents/Svn/DS/Feb-2022/1.DS-Fundamentals/03.Linear-Data-Structures-Exercise/03. Linear-Data-Structures-Exercise-Solution/01.FasterQueue.Tests/01.FasterQueue.Tests.csproj",
+        "projectName": "01.FasterQueue.Tests",
+        "projectPath": "/Users/ssheytanov/Documents/Svn/DS/Feb-2022/1.DS-Fundamentals/03.Linear-Data-Structures-Exercise/03. Linear-Data-Structures-Exercise-Solution/01.FasterQueue.Tests/01.FasterQueue.Tests.csproj",
+        "packagesPath": "/Users/ssheytanov/.nuget/packages/",
+        "outputPath": "/Users/ssheytanov/Documents/Svn/DS/Feb-2022/1.DS-Fundamentals/03.Linear-Data-Structures-Exercise/03. Linear-Data-Structures-Exercise-Solution/01.FasterQueue.Tests/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/ssheytanov/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "/Users/ssheytanov/Documents/Svn/DS/Feb-2022/1.DS-Fundamentals/03.Linear-Data-Structures-Exercise/03. Linear-Data-Structures-Exercise-Solution/01.FasterQueue/01.CircularQueue.csproj": {
+                "projectPath": "/Users/ssheytanov/Documents/Svn/DS/Feb-2022/1.DS-Fundamentals/03.Linear-Data-Structures-Exercise/03. Linear-Data-Structures-Exercise-Solution/01.FasterQueue/01.CircularQueue.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.0.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.2.1, )"
+            },
+            "nunit": {
+              "target": "Package",
+              "version": "[3.13.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.405/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/ssheytanov/Documents/Svn/DS/Feb-2022/1.DS-Fundamentals/03.Linear-Data-Structures-Exercise/03. Linear-Data-Structures-Exercise-Solution/01.FasterQueue/01.CircularQueue.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/ssheytanov/Documents/Svn/DS/Feb-2022/1.DS-Fundamentals/03.Linear-Data-Structures-Exercise/03. Linear-Data-Structures-Exercise-Solution/01.FasterQueue/01.CircularQueue.csproj",
+        "projectName": "01.CircularQueue",
+        "projectPath": "/Users/ssheytanov/Documents/Svn/DS/Feb-2022/1.DS-Fundamentals/03.Linear-Data-Structures-Exercise/03. Linear-Data-Structures-Exercise-Solution/01.FasterQueue/01.CircularQueue.csproj",
+        "packagesPath": "/Users/ssheytanov/.nuget/packages/",
+        "outputPath": "/Users/ssheytanov/Documents/Svn/DS/Feb-2022/1.DS-Fundamentals/03.Linear-Data-Structures-Exercise/03. Linear-Data-Structures-Exercise-Solution/01.FasterQueue/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/ssheytanov/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.405/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

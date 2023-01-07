@@ -1,0 +1,10 @@
+/Users/ssheytanov/Documents/Svn/DS/Feb-2022/1.DS-Fundamentals/03.Linear-Data-Structures-Exercise/03. Linear-Data-Structures-Exercise-Solution/01.FasterQueue/bin/Debug/netcoreapp3.1/01.FasterQueue.deps.json
+/Users/ssheytanov/Documents/Svn/DS/Feb-2022/1.DS-Fundamentals/03.Linear-Data-Structures-Exercise/03. Linear-Data-Structures-Exercise-Solution/01.FasterQueue/bin/Debug/netcoreapp3.1/01.FasterQueue.dll
+/Users/ssheytanov/Documents/Svn/DS/Feb-2022/1.DS-Fundamentals/03.Linear-Data-Structures-Exercise/03. Linear-Data-Structures-Exercise-Solution/01.FasterQueue/bin/Debug/netcoreapp3.1/01.FasterQueue.pdb
+/Users/ssheytanov/Documents/Svn/DS/Feb-2022/1.DS-Fundamentals/03.Linear-Data-Structures-Exercise/03. Linear-Data-Structures-Exercise-Solution/01.FasterQueue/obj/Debug/netcoreapp3.1/01.FasterQueue.csproj.AssemblyReference.cache
+/Users/ssheytanov/Documents/Svn/DS/Feb-2022/1.DS-Fundamentals/03.Linear-Data-Structures-Exercise/03. Linear-Data-Structures-Exercise-Solution/01.FasterQueue/obj/Debug/netcoreapp3.1/01.FasterQueue.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ssheytanov/Documents/Svn/DS/Feb-2022/1.DS-Fundamentals/03.Linear-Data-Structures-Exercise/03. Linear-Data-Structures-Exercise-Solution/01.FasterQueue/obj/Debug/netcoreapp3.1/01.FasterQueue.AssemblyInfoInputs.cache
+/Users/ssheytanov/Documents/Svn/DS/Feb-2022/1.DS-Fundamentals/03.Linear-Data-Structures-Exercise/03. Linear-Data-Structures-Exercise-Solution/01.FasterQueue/obj/Debug/netcoreapp3.1/01.FasterQueue.AssemblyInfo.cs
+/Users/ssheytanov/Documents/Svn/DS/Feb-2022/1.DS-Fundamentals/03.Linear-Data-Structures-Exercise/03. Linear-Data-Structures-Exercise-Solution/01.FasterQueue/obj/Debug/netcoreapp3.1/01.FasterQueue.csproj.CoreCompileInputs.cache
+/Users/ssheytanov/Documents/Svn/DS/Feb-2022/1.DS-Fundamentals/03.Linear-Data-Structures-Exercise/03. Linear-Data-Structures-Exercise-Solution/01.FasterQueue/obj/Debug/netcoreapp3.1/01.FasterQueue.dll
+/Users/ssheytanov/Documents/Svn/DS/Feb-2022/1.DS-Fundamentals/03.Linear-Data-Structures-Exercise/03. Linear-Data-Structures-Exercise-Solution/01.FasterQueue/obj/Debug/netcoreapp3.1/01.FasterQueue.pdb

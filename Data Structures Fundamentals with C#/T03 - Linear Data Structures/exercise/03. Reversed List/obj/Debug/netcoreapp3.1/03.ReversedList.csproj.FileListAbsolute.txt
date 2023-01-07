@@ -1,0 +1,10 @@
+/Users/ssheytanov/Documents/Svn/DS/Feb-2022/1.DS-Fundamentals/03.Linear-Data-Structures-Exercise/03. Linear-Data-Structures-Exercise-Skeleton/03.ReversedList/bin/Debug/netcoreapp3.1/03.ReversedList.deps.json
+/Users/ssheytanov/Documents/Svn/DS/Feb-2022/1.DS-Fundamentals/03.Linear-Data-Structures-Exercise/03. Linear-Data-Structures-Exercise-Skeleton/03.ReversedList/bin/Debug/netcoreapp3.1/03.ReversedList.dll
+/Users/ssheytanov/Documents/Svn/DS/Feb-2022/1.DS-Fundamentals/03.Linear-Data-Structures-Exercise/03. Linear-Data-Structures-Exercise-Skeleton/03.ReversedList/bin/Debug/netcoreapp3.1/03.ReversedList.pdb
+/Users/ssheytanov/Documents/Svn/DS/Feb-2022/1.DS-Fundamentals/03.Linear-Data-Structures-Exercise/03. Linear-Data-Structures-Exercise-Skeleton/03.ReversedList/obj/Debug/netcoreapp3.1/03.ReversedList.csproj.AssemblyReference.cache
+/Users/ssheytanov/Documents/Svn/DS/Feb-2022/1.DS-Fundamentals/03.Linear-Data-Structures-Exercise/03. Linear-Data-Structures-Exercise-Skeleton/03.ReversedList/obj/Debug/netcoreapp3.1/03.ReversedList.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ssheytanov/Documents/Svn/DS/Feb-2022/1.DS-Fundamentals/03.Linear-Data-Structures-Exercise/03. Linear-Data-Structures-Exercise-Skeleton/03.ReversedList/obj/Debug/netcoreapp3.1/03.ReversedList.AssemblyInfoInputs.cache
+/Users/ssheytanov/Documents/Svn/DS/Feb-2022/1.DS-Fundamentals/03.Linear-Data-Structures-Exercise/03. Linear-Data-Structures-Exercise-Skeleton/03.ReversedList/obj/Debug/netcoreapp3.1/03.ReversedList.AssemblyInfo.cs
+/Users/ssheytanov/Documents/Svn/DS/Feb-2022/1.DS-Fundamentals/03.Linear-Data-Structures-Exercise/03. Linear-Data-Structures-Exercise-Skeleton/03.ReversedList/obj/Debug/netcoreapp3.1/03.ReversedList.csproj.CoreCompileInputs.cache
+/Users/ssheytanov/Documents/Svn/DS/Feb-2022/1.DS-Fundamentals/03.Linear-Data-Structures-Exercise/03. Linear-Data-Structures-Exercise-Skeleton/03.ReversedList/obj/Debug/netcoreapp3.1/03.ReversedList.dll
+/Users/ssheytanov/Documents/Svn/DS/Feb-2022/1.DS-Fundamentals/03.Linear-Data-Structures-Exercise/03. Linear-Data-Structures-Exercise-Skeleton/03.ReversedList/obj/Debug/netcoreapp3.1/03.ReversedList.pdb
