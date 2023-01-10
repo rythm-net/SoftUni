@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "5MpSWqFpi5F/iRAKP/VlQ5DR5ZoDNrphIBiyyjfXQBDad+lyOm3fZZCQhe/AauZBGg+9IaVqGJb9uuM1G8mBjw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PC\\Documents\\GitHub\\SoftUni\\Data Structures Fundamentals with C#\\T05 - Binary Trees, Heaps, BST\\lecture\\03.MaxHeap\\03. Max Heap.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01. Binary Tree", "01.BinaryTree\01. Binary Tree.csproj", "{C0270477-55E4-4750-BD29-389682E6B145}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01. Binary Tree Tests", "01.BinaryTree.Tests\01. Binary Tree Tests.csproj", "{E48932B0-1197-4D19-BA3D-6BE838BEB373}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02. Binary Search Tree", "02.BinarySearchTree\02. Binary Search Tree.csproj", "{B9CB2DDD-BCF6-49D0-8FE2-3EAB3614DC26}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02. Binary Search Tree Tests", "02.BinarySearchTree.Tests\02. Binary Search Tree Tests.csproj", "{7C3972FF-766F-4C13-B5F1-B229B65D66C8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03. Max Heap", "03.MaxHeap\03. Max Heap.csproj", "{1AF482E6-ADA0-4549-A861-629BD4383BE0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03. Max Heap Tests", "03.MaxHeap.Tests\03. Max Heap Tests.csproj", "{4D570578-00E3-4266-9EB9-FA8916493AAA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C0270477-55E4-4750-BD29-389682E6B145}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0270477-55E4-4750-BD29-389682E6B145}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0270477-55E4-4750-BD29-389682E6B145}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0270477-55E4-4750-BD29-389682E6B145}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E48932B0-1197-4D19-BA3D-6BE838BEB373}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E48932B0-1197-4D19-BA3D-6BE838BEB373}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E48932B0-1197-4D19-BA3D-6BE838BEB373}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E48932B0-1197-4D19-BA3D-6BE838BEB373}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9CB2DDD-BCF6-49D0-8FE2-3EAB3614DC26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9CB2DDD-BCF6-49D0-8FE2-3EAB3614DC26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9CB2DDD-BCF6-49D0-8FE2-3EAB3614DC26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9CB2DDD-BCF6-49D0-8FE2-3EAB3614DC26}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C3972FF-766F-4C13-B5F1-B229B65D66C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C3972FF-766F-4C13-B5F1-B229B65D66C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C3972FF-766F-4C13-B5F1-B229B65D66C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C3972FF-766F-4C13-B5F1-B229B65D66C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1AF482E6-ADA0-4549-A861-629BD4383BE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AF482E6-ADA0-4549-A861-629BD4383BE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AF482E6-ADA0-4549-A861-629BD4383BE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AF482E6-ADA0-4549-A861-629BD4383BE0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D570578-00E3-4266-9EB9-FA8916493AAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D570578-00E3-4266-9EB9-FA8916493AAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D570578-00E3-4266-9EB9-FA8916493AAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D570578-00E3-4266-9EB9-FA8916493AAA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8865C252-266C-4163-9C8D-DC4607698607}
+	EndGlobalSection
+EndGlobal
