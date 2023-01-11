@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "JZXCx8ISBYHDrGFhVnrk64Qo0X99RhUp7tTa1CQLexsSc3/rXnP732shE469qkKnS1VZlhL3fQPz6PkkAA3jEg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PC\\Documents\\GitHub\\SoftUni\\Data Structures Fundamentals with C#\\T05 - Binary Trees, Heaps, BST\\exercise\\05.TopView\\05. Top View.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
