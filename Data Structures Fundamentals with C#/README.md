@@ -9,3 +9,6 @@
     * **4 Labs** ➔ ``/lecture + .docx``
     * **3 Exercises** ➔ ``/exercise + .docx``
     * **1 Exam Preparations (Final)**
+---
+### Theme 1 - Course Intro
+#### [_**Lecture**_](https://github.com/rythm-net/SoftUni/blob/main/Data%20Structures%20Fundamentals%20with%20C%23/T01%20-
