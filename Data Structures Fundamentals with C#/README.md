@@ -26,3 +26,9 @@
 * _Dynamic Arays_
 * _Queues_
 * _Stack_
+---
+### Theme 4 - Trees Representation and Traversal (BFS, DFS)
+#### [**_Lecture_**](https://github.com/rythm-net/SoftUni/blob/main/Data%20Structures%20Fundamentals%20with%20C%23/T03%20-%20Linear%20Data%20Structures/03.%20Linear%20Data%20Structures.pptx) **/** [**_Lab_**](https://github.com/rythm-net/SoftUni/tree/main/Data%20Structures%20Fundamentals%20with%20C%23/T03%20-%20Linear%20Data%20Structures/lecture) **/** [**_Exercise_**](https://github.com/rythm-net/SoftUni/tree/main/Data%20Structures%20Fundamentals%20with%20C%23/T03%20-%20Linear%20Data%20Structures/exercise)
+* _Basic Tree structures BFS and DFS traversal_
+
+
