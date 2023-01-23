@@ -30,5 +30,10 @@
 ### Theme 4 - Trees Representation and Traversal (BFS, DFS)
 #### [**_Lecture_**](https://github.com/rythm-net/SoftUni/blob/main/Data%20Structures%20Fundamentals%20with%20C%23/T03%20-%20Linear%20Data%20Structures/03.%20Linear%20Data%20Structures.pptx) **/** [**_Lab_**](https://github.com/rythm-net/SoftUni/tree/main/Data%20Structures%20Fundamentals%20with%20C%23/T03%20-%20Linear%20Data%20Structures/lecture) **/** [**_Exercise_**](https://github.com/rythm-net/SoftUni/tree/main/Data%20Structures%20Fundamentals%20with%20C%23/T03%20-%20Linear%20Data%20Structures/exercise)
 * _Basic Tree structures BFS and DFS traversal_
-
+---
+### Theme 5 - Binary Trees, Heaps, BST
+#### [**_Lecture_**](https://github.com/rythm-net/SoftUni/blob/main/Data%20Structures%20Fundamentals%20with%20C%23/T05%20-%20Binary%20Trees%2C%20Heaps%2C%20BST/05.%20Binary%20Trees%2C%20Heaps%2C%20BST.pptx) **/** [**_Lab_**](https://github.com/rythm-net/SoftUni/tree/main/Data%20Structures%20Fundamentals%20with%20C%23/T05%20-%20Binary%20Trees%2C%20Heaps%2C%20BST/lecture) **/** [**_Exercise_**](https://github.com/rythm-net/SoftUni/tree/main/Data%20Structures%20Fundamentals%20with%20C%23/T05%20-%20Binary%20Trees%2C%20Heaps%2C%20BST/exercise)
+* _Min and Max Heaps_
+* _Binary Search Trees_
+* _Balanced Trees_
 
