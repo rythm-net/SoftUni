@@ -36,4 +36,6 @@
 * _Min and Max Heaps_
 * _Binary Search Trees_
 * _Balanced Trees_
-
+---
+### Theme 6 - Exam Preparation
+#### [_**Lab (01 December)**_](https://github.com/rythm-net/SoftUni/tree/main/Data%20Structures%20Fundamentals%20with%20C%23/T06%20-%20Exam%20Preparation)
