@@ -1,4 +1,4 @@
-<h2 align="center">🎓 Software University - Data Structures Fundamentals with C# (2022)</h2>
+<h2 align="center">🎓 Software University - Data Structures Fundamentals with C# (2021)</h2>
 
 ### Overall Information
 * Course - [**Data Structures Fundamentals with C# | Структури от данни с C#**](https://softuni.bg/trainings/3921/data-structures-fundamentals-with-csharp-november-2022)
