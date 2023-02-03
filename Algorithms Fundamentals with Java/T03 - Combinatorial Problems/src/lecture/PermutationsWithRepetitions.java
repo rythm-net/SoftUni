@@ -1,3 +1,5 @@
+package lecture;
+
 import java.util.HashSet;
 import java.util.Scanner;
 
