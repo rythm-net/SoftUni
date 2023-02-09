@@ -1,1 +1,1 @@
-<h2 align="center">🎓 Software University - Algorithms Fundamentals with Java (2022)</h2>
+<h2 align="center">🎓 Software University - Algorithms Fundamentals with Java (2021)</h2>
