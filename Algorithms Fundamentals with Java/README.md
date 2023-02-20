@@ -9,3 +9,6 @@
     * **5 Labs** ➔ ``/src ➔ /lecture + .docx``
     * **3 Exercises** ➔ ``/src ➔ /exercise + .docx``
     * **1 Exam Preparations (Final)**
+---
+### Theme 1 - Course Intro
+#### [_**Lecture**_](https://github.com/rythm-net/SoftUni/blob/main/Algorithms%20Fundamentals%20with%20Java/T01%20-%20Course%20Intro/01.%20Course%20Introduction%20(June%202022).pptx.pptx)
