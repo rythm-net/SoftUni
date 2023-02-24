@@ -21,3 +21,10 @@
 * _Generating combination using recursion_
 * _Backtracking_
 * _Recursion and iteration - use cases_
+---
+### Theme 3 - Combinatorial Problems
+#### [**_Lecture_**](https://github.com/rythm-net/SoftUni/blob/main/Algorithms%20Fundamentals%20with%20Java/T03%20-%20Combinatorial%20Problems/03.%20Combinatorial%20Problems.pptx) **/** [**_Lab_**](https://github.com/rythm-net/SoftUni/tree/main/Algorithms%20Fundamentals%20with%20Java/T03%20-%20Combinatorial%20Problems/src/lecture) **/** [**_Exercise_**](https://github.com/rythm-net/SoftUni/tree/main/Algorithms%20Fundamentals%20with%20Java/T03%20-%20Combinatorial%20Problems/src/exercise)
+* _Permutation - definition and examples_
+* _Variations - definition and examples_
+* _Combinations - definition and examples_
+* _Solving practical problems_
