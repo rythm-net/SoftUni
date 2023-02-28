@@ -47,3 +47,12 @@
 * _Graph connectivity_
 * _Topological sorting_
 * _Shortest path in a graph_
+---
+### Theme 6 - Introduction to Dynamic Programming
+#### [**_Lecture_**](https://github.com/rythm-net/SoftUni/blob/main/Algorithms%20Fundamentals%20with%20Java/%D0%A206%20-%20Introduction%20to%20Dynamic%20Programming/%D0%A206%20-%20Introduction%20to%20Dynamic%20Programming.pptx) **/** [**_Lab_**](https://github.com/rythm-net/SoftUni/tree/main/Algorithms%20Fundamentals%20with%20Java/%D0%A206%20-%20Introduction%20to%20Dynamic%20Programming/lecture) **/** [**_Exercise_**](https://github.com/rythm-net/SoftUni/tree/main/Algorithms%20Fundamentals%20with%20Java/%D0%A206%20-%20Introduction%20to%20Dynamic%20Programming/exercise)
+* _Dynamic Programming - definition and history_
+* _Fibonacci sequence - recursive, dynamic, and iterative approaches_
+* _Five steps to dynamic programming_
+* _Longest increasing subsequence_
+* _Solving problems with dynamic programming_
+
