@@ -55,4 +55,6 @@
 * _Five steps to dynamic programming_
 * _Longest increasing subsequence_
 * _Solving problems with dynamic programming_
-
+---
+### Theme 7 - Exam Preparation
+#### [_**Lab (14 July)**_](https://github.com/rythm-net/SoftUni/tree/main/Algorithms%20Fundamentals%20with%20Java/%D0%A207%20-%20Exam%20Preparation/src)
