@@ -38,3 +38,12 @@
 * _Greedy algorithms_
 * _Solving practical problems_
 * _Greedy algorithms - use cases_
+---
+### Theme 5 - Graph Theory, Traversal and Shortest Paths
+#### [**_Lecture_**](https://github.com/rythm-net/SoftUni/blob/main/Algorithms%20Fundamentals%20with%20C%23/T05%20-%20Graph%20Theory%2C%20Traversal%20and%20Shortest%20Paths/05.%20Graph%20Theory%2C%20Traversal%20and%20Shortest%20Paths.pptx) **/** [**_Lab_**](https://github.com/rythm-net/SoftUni/tree/main/Algorithms%20Fundamentals%20with%20C%23/T05%20-%20Graph%20Theory%2C%20Traversal%20and%20Shortest%20Paths/lecture) **/** [**_Exercise_**](https://github.com/rythm-net/SoftUni/tree/main/Algorithms%20Fundamentals%20with%20C%23/T05%20-%20Graph%20Theory%2C%20Traversal%20and%20Shortest%20Paths/exercise)
+* _Graphs - definitions and terminology_
+* _Representing graphs - classic and oop ways_
+* _Graphs traversals - DFS, BFS_
+* _Graph connectivity_
+* _Topological sorting_
+* _Shortest path in a graph_
