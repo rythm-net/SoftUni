@@ -28,3 +28,13 @@
 * _Variations - definition and examples_
 * _Combinations - definition and examples_
 * _Solving practical problems_
+---
+### Theme 4 - Searching, Sorting and Greedy Algorithms
+#### [**_Lecture_**](https://github.com/rythm-net/SoftUni/blob/main/Algorithms%20Fundamentals%20with%20C%23/T04%20-%20Searching%2C%20Sorting%20and%20Greedy%20Algorithms/04.%20Searching%2C%20Sorting%20and%20Greedy%20Algorithms.pptx) **/** [**_Lab_**](https://github.com/rythm-net/SoftUni/tree/main/Algorithms%20Fundamentals%20with%20C%23/T04%20-%20Searching%2C%20Sorting%20and%20Greedy%20Algorithms/lecture)
+* _Types of simple searching algorithms_
+* _Types of sorting algorithms_
+* _Shuffling_
+* _Types of advanced sorting algorithms_
+* _Greedy algorithms_
+* _Solving practical problems_
+* _Greedy algorithms - use cases_
