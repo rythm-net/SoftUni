@@ -47,3 +47,11 @@
 * _Graph connectivity_
 * _Topological sorting_
 * _Shortest path in a graph_
+---
+### Theme 6 - Introduction to Dynamic Programming
+#### [**_Lecture_**](https://github.com/rythm-net/SoftUni/blob/main/Algorithms%20Fundamentals%20with%20C%23/%D0%A206%20-%20Introduction%20to%20Dynamic%20Programming/06.%20Introduction%20to%20Dynamic%20Programming.pptx) **/** [**_Lab_**](https://github.com/rythm-net/SoftUni/tree/main/Algorithms%20Fundamentals%20with%20C%23/%D0%A206%20-%20Introduction%20to%20Dynamic%20Programming/lecture) **/** [**_Exercise_**](https://github.com/rythm-net/SoftUni/tree/main/Algorithms%20Fundamentals%20with%20C%23/%D0%A206%20-%20Introduction%20to%20Dynamic%20Programming/exercise)
+* _Dynamic programming - definition and history_
+* _Fibonacci sequence_
+* _Subset sum_
+* _Largest sum in matrix of numbers_
+* _Longest common subsequence - Recursive DP approach_
