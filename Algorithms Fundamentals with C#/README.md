@@ -55,3 +55,7 @@
 * _Subset sum_
 * _Largest sum in matrix of numbers_
 * _Longest common subsequence - Recursive DP approach_
+---
+### Theme 7 - Exam Preparation
+#### [_**Lab (13 July)**_](https://github.com/rythm-net/SoftUni/tree/main/Algorithms%20Fundamentals%20with%20C%23/%D0%A207%20-%20Exam%20Preparation)
+* _Solving practical exam_
