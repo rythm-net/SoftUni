@@ -36,3 +36,18 @@
 * _For-цикъл_
 * _Инкрементация и декрементация_
 * _Оператор за прекъсване на повторения_
+---
+### Тема 6 - По-сложни цикли
+#### [_**Лекция**_](https://github.com/rythm-net/SoftUni/blob/main/Programming%20Basics%20with%20Go/T06%20-%20Advanced%20Loops/06.%20Advanced%20Loops.pptx) **/** [_**Лаб**_](https://github.com/rythm-net/SoftUni/tree/main/Programming%20Basics%20with%20Go/T06%20-%20Advanced%20Loops/lecture) **/** [_**Упражнение**_](https://github.com/rythm-net/SoftUni/tree/main/Programming%20Basics%20with%20Go/T06%20-%20Advanced%20Loops/exercise)
+* _По-сложни цикли_
+* _Оператор за продължаване към следващата итерация_
+* _Оператор за прекъсване на цикъл_
+---
+### Тема 7 - Вложени цикли
+#### [_**Лекция**_](https://github.com/rythm-net/SoftUni/blob/main/Programming%20Basics%20with%20Go/T07%20-%20Nested%20Loops/07.%20Nested%20Loops.pptx) **/** [_**Лаб**_](https://github.com/rythm-net/SoftUni/tree/main/Programming%20Basics%20with%20Go/T07%20-%20Nested%20Loops/lecture) **/** [_**Упражнение**_](https://github.com/rythm-net/SoftUni/tree/main/Programming%20Basics%20with%20Go/T07%20-%20Nested%20Loops/exercise)
+* _Вложени цикли_
+* _По-сложни задачи с конструкции за повторение_
+---
+### Тема 8 - Подготовка за изпит
+#### [_**Лекция**_](https://github.com/rythm-net/SoftUni/blob/main/Programming%20Basics%20with%20Go/T08%20-%20Exam%20Preparation/08.%20Exam%20Preparation.pdf) **/** [_**Лаб**_](https://github.com/rythm-net/SoftUni/tree/main/Programming%20Basics%20with%20Go/T08%20-%20Exam%20Preparation/lecture)
+* _Решаване на изпитни задачи_
