@@ -1,4 +1,4 @@
-<h2 align="center">🎓 Software University - Programming Basics with Go</h2>
+<h2 align="center">🎓 Software University - Programming Basics with Go (2022)</h2>
 
 ### Overall Information
 * Course - [**Programming Basics with Go | Основи в програмирането с Go**](https://softuni.bg/trainings/3683/programming-basics-with-go-february-2022#lesson-38820)
