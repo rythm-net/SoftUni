@@ -8,3 +8,10 @@
     * **4 Labs** ➔ ``/lecture + .docx``
     * **3 Exercises** ➔ ``/exercise + .docx``
     * **1 Exam Preparations (Final)**
+---
+### Тема 1 - Откриване на курса
+#### [_**Лекция**_](https://github.com/rythm-net/SoftUni/blob/main/Quality%20Assurance%20Basics/T01%20-%20Course%20Intro/01.%20Course%20Intro%20(March%202022).pptx)
+* _Учебна програма_
+* _Преподаватели_
+* _Изпит_
+* _Ресурси_
