@@ -15,3 +15,16 @@
 * _Преподаватели_
 * _Изпит_
 * _Ресурси_
+---
+### Тема 2 - Въведение в осигуряването на качеството на софтуера
+#### [**_Лекция_**](https://github.com/rythm-net/SoftUni/blob/main/Quality%20Assurance%20Basics/T02%20-%20Software%20QA%20Introduction/02.%20Software%20QA%20Introduction.pptx) **/** [**_Лаб_**](https://github.com/rythm-net/SoftUni/tree/main/Quality%20Assurance%20Basics/T02%20-%20Software%20QA%20Introduction/lecture) **/** [**_Упражнение_**](https://github.com/rythm-net/SoftUni/tree/main/Quality%20Assurance%20Basics/T02%20-%20Software%20QA%20Introduction/exercise)
+* _Какво е осигуряване на качеството на софтуера? Какво е софтуерно тестване ?_
+* _Софтуерни дефекти (бъгове)_
+* _Ръчно тестване срещу автоматизирано тестване_
+* _Седемте принципа на тестването_
+* _Тестови сценарии и тестови случаи_
+
+
+
+
+
