@@ -23,8 +23,15 @@
 * _Ръчно тестване срещу автоматизирано тестване_
 * _Седемте принципа на тестването_
 * _Тестови сценарии и тестови случаи_
-
-
+---
+### Тема 3 - Бъгове и проследяване на бъгове
+#### [_**Лекция**_](https://github.com/rythm-net/SoftUni/blob/main/Quality%20Assurance%20Basics/T03%20-%20Bugs%20and%20Bug%20Tracking/03.%20Bugs%20and%20Bug%20Tracking.pptx) **/** [_**Лаб**_](https://github.com/rythm-net/SoftUni/tree/main/Quality%20Assurance%20Basics/T03%20-%20Bugs%20and%20Bug%20Tracking/lecture) **/** [_**Упражнение**_](https://github.com/rythm-net/SoftUni/tree/main/Quality%20Assurance%20Basics/T03%20-%20Bugs%20and%20Bug%20Tracking/exercise)
+* _Софтуерни дефекти_
+* _Доклад за инциденти_
+* _Жизнен цикъл на дефекта_
+* _Метрики за управление на инциденти_
+* _Съвети за докладване на бъгове_
+* _Системи за проследяване на бъгове_
 
 
 
