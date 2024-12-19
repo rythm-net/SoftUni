@@ -32,6 +32,12 @@
 * _Метрики за управление на инциденти_
 * _Съвети за докладване на бъгове_
 * _Системи за проследяване на бъгове_
-
+---
+### Тема 4 - Нива на тестване и видове тестове
+#### [_**Лекция**_](https://github.com/rythm-net/SoftUni/blob/main/Quality%20Assurance%20Basics/T04%20-%20Test%20Levels%20and%20Test%20Types/04.%20Test%20Levels%20and%20Test%20Types.pptx) **/** [_**Лаб**_](https://github.com/rythm-net/SoftUni/tree/main/Quality%20Assurance%20Basics/T04%20-%20Test%20Levels%20and%20Test%20Types/lecture) **/** [_**Упражнение**_](https://github.com/rythm-net/SoftUni/tree/main/Quality%20Assurance%20Basics/T04%20-%20Test%20Levels%20and%20Test%20Types/exercise)
+* _Въведение и сравнение на различни нива на тестване_
+* _Нива на тестване: модулно тестване срещу интеграционно тестване срещу системно тестване_
+* _Видове тестове: статично тестване, динамично тестване (функционално, нефункционално) и др._
+* _Прилагане на различни видове тестове на различните нива на тестване_
 
 
