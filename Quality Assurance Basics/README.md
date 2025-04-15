@@ -1,4 +1,4 @@
-<h2 align="center">🎓 Software University - Quality Assurance Basics (2023)</h2>
+<h2 align="center">🎓 Software University - Quality Assurance Basics (202)</h2>
 
 ### Overall Information
 * Course - [**Quality Assurance Basics | Основи на осигуряване на качеството**](https://softuni.bg/trainings/4064/qa-basics-march-2023)
