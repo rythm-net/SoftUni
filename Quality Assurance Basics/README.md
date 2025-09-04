@@ -2,6 +2,15 @@
 
 ### Overall Information
 * Course - [**Quality Assurance Basics | Основи на осигуряване на качеството**](https://softuni.bg/trainings/4064/qa-basics-march-2023)
+* The "QA Basics" course provides foundational knowledge in software testing, essential for the QA track at Software University. It introduces key concepts in the field of software testing, such as testing principles, bug discovery, analysis, and documentation, as well as test scenarios, test cases, testing levels, and types of testing. The course also includes hands-on practice with specialized tools for bug tracking and documentation.
+   * Skills Acquired:
+      * Understanding of the main areas within QA
+      * Basic knowledge of different testing levels and types
+      * Familiarity with creating test scenarios
+      * Understanding of the concept of a bug
+      * Skills for discovering bugs
+      * Skills for analyzing bugs
+      * Skills for documenting bugs
 * Integrated Development Environment (IDE) - [**PyCharm Professional**](https://www.jetbrains.com/aqua/)
 * 6 Themes, which include :
     * **5 Lectures** ➔ ``.pptx``
