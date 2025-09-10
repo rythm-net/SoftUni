@@ -48,5 +48,8 @@
 * _Test levels: unit testing vs. integration testing vs. system testing_
 * _Test types: static testing, dynamic testing (functional, non-functional), etc._
 * _Applying different test types throughout the test levels_
-
+---
+### Theme 5 - Workshop Full Manual Testing
+#### [_**Lab**_](https://github.com/rythm-net/SoftUni/tree/main/Quality%20Assurance%20Basics/T05%20-%20Workshop%20Full%20Manual%20Testing/lecture)
+* _Given a fully-functional Web-based project, find the bug and log them in an issue tracker_
 
